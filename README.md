@@ -69,8 +69,8 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
  <li><b><a target="_blank" href="img/ail(38).pdf" style="text-decoration:none;">The Fractional Quantum Hall Effect by Horst L. Störmer</a></b></li>
 <li><b><a target="_blank" href="img/ail(39).pdf" style="text-decoration:none;">Superfluidity in <sup>3</sup>He: Discovery and Understandning by Douglas D. Osheroff</a></b></li>
  <li><b><a target="_blank" href="img/ail(40).pdf" style="text-decoration:none;">From the Structure and Function of the Ribosome to New Antibiotics by Thomas A. Steitz</a></b></li>                              
-<li><b><a target="_blank" href="img/ail(5).pdf" style="text-decoration:none;">CMSC471/671 Artificial Intelligence</a></b></li>
-<li><b><a target="_blank" href="img/ail(6).pdf" style="text-decoration:none;">Introduction to Neural Networks and Deep Learning</a></b></li>
+<li><b><a target="_blank" href="img/ail(41).pdf" style="text-decoration:none;">Fascinated Journeys into Blue Light by Isamu Akasaki</a></b></li>
+<li><b><a target="_blank" href="img/ail(42).pdf" style="text-decoration:none;">Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments by Carl Wieman</a></b></li>
  
   <li><b><a target="_blank" href="img/ail(7).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Engineering Societies in the Agents World V</a></b></li>
  <li><b><a target="_blank" href="img/ail(8).pdf" style="text-decoration:none;">CSE176 Introduction to Machine Learning — Lecture notes </a></b></li>
