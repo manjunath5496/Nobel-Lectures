@@ -224,11 +224,11 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(130).pdf" style="text-decoration:none;">Dawn of Fullerenes: Conjecture and Experiment by Robert F. Curl Jr.</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(26).pdf" style="text-decoration:none;">Experimental and Theoretical Nuclear Astrophysics; the Quest for the Origin of the Elements by William A. Fowler</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(132).pdf" style="text-decoration:none;">Molecular Dynamics of Elementary Chemical Reactions by Dudley R. Herschbach</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(27).pdf" style="text-decoration:none;">Laser Cooling and Trapping of Neutral Atoms by William D. Phillips</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(134).pdf" style="text-decoration:none;">Scanning Tunneling Microscopy – From Birth to Adolescence by Heinrich Rohrer and Gerd Binnig</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(28).pdf" style="text-decoration:none;">Symmetry, Space, Stars and C<sub>60</sub> by Sir Harold Kroto </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(135).pdf" style="text-decoration:none;">Deep inelastic scattering: Experiments on the proton and the observation of scaling by H. W. Kendall  </a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(29).pdf" style="text-decoration:none;">Double Heterostructure Concept and its Applications in Physics, Electronics and Technology by Zhores Alferov </a></b></li>                              
 
