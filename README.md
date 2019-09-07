@@ -5,14 +5,14 @@
  <li><b><a target="_blank" href="img/ail(2).pdf" style="text-decoration:none;">A Splendid Gift from the Earth: The Origins and Impact of the Avermectins by Satoshi Ōmura</a></b></li>
 <li><b><a target="_blank" href="img/ail(3).pdf" style="text-decoration:none;">A Brief History of G Protein Coupled Receptors by Robert J. Lefkowitz</a></b></li>
  <li><b><a target="_blank" href="img/ail(4).pdf" style="text-decoration:none;">The BEH Mechanism and its Scalar Boson by François Englert</a></b></li>                              
-<li><b><a target="_blank" href="img/ail(5).pdf" style="text-decoration:none;">CMSC471/671 Artificial Intelligence</a></b></li>
-<li><b><a target="_blank" href="img/ail(6).pdf" style="text-decoration:none;">Introduction to Neural Networks and Deep Learning</a></b></li>
+<li><b><a target="_blank" href="img/ail(5).pdf" style="text-decoration:none;">The Egg and the Nucleus: A Battle for Supremacy by Sir John B. Gurdon</a></b></li>
+<li><b><a target="_blank" href="img/ail(6).pdf" style="text-decoration:none;">Development of Multiscale Models for Complex Chemical Systems From H+H<sub>2</sub> to Biomolecules by Martin Karplus</a></b></li>
  
-  <li><b><a target="_blank" href="img/ail(7).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Engineering Societies in the Agents World V</a></b></li>
- <li><b><a target="_blank" href="img/ail(8).pdf" style="text-decoration:none;">CSE176 Introduction to Machine Learning — Lecture notes </a></b></li>
-   <li><b><a target="_blank" href="img/ail(9).pdf" style="text-decoration:none;">Mathematics for Machine Learning</a></b></li>                             
- <li><b><a target="_blank" href="img/ail(10).pdf" style="text-decoration:none;">Lectures on Machine Learning: From artificial intelligence to machine learning </a></b></li>                              
-<li><b><a target="_blank" href="img/ail(11).pdf" style="text-decoration:none;">CS725: Foundations of Machine learning - Lecture Notes</a></b></li>
+  <li><b><a target="_blank" href="img/ail(7).pdf" style="text-decoration:none;">Procuring Universal Service: Putting Auction Theory to Work</a></b></li>
+ <li><b><a target="_blank" href="img/ail(8).pdf" style="text-decoration:none;">Femtochemistry: Atomic-Scale Dynamics of the Chemical Bond Using Ultrafast Lasers by Ahmed Zewail</a></b></li>
+   <li><b><a target="_blank" href="img/ail(9).pdf" style="text-decoration:none;">Ralph Steinman and the Discovery of Dendritic Cells by Ralph M. Steinman</a></b></li>                             
+ <li><b><a target="_blank" href="img/ail(10).pdf" style="text-decoration:none;">Spatial Cells in the Hippocampal Formation by John O'Keefe </a></b></li>                              
+<li><b><a target="_blank" href="img/ail(11).pdf" style="text-decoration:none;">Grid Cells, Place Cells and Memory by May-Britt Moser</a></b></li>
 <li><b><a target="_blank" href="img/ail(12).pdf" style="text-decoration:none;">Lecture Notes On Artificial Intelligence</a></b></li>
                <li><b><a target="_blank" href="img/ail(13).pdf" style="text-decoration:none;">Introduction to Artificial Intelligence</a></b></li>
                               
