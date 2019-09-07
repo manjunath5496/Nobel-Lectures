@@ -13,10 +13,14 @@
    <li><b><a target="_blank" href="img/ail(9).pdf" style="text-decoration:none;">Ralph Steinman and the Discovery of Dendritic Cells by Ralph M. Steinman</a></b></li>                             
  <li><b><a target="_blank" href="img/ail(10).pdf" style="text-decoration:none;">Spatial Cells in the Hippocampal Formation by John O'Keefe </a></b></li>                              
 <li><b><a target="_blank" href="img/ail(11).pdf" style="text-decoration:none;">Grid Cells, Place Cells and Memory by May-Britt Moser</a></b></li>
-<li><b><a target="_blank" href="img/ail(12).pdf" style="text-decoration:none;">Lecture Notes On Artificial Intelligence</a></b></li>
-               <li><b><a target="_blank" href="img/ail(13).pdf" style="text-decoration:none;">Introduction to Artificial Intelligence</a></b></li>
+<li><b><a target="_blank" href="img/ail(12).pdf" style="text-decoration:none;">Mechanisms in E. coli and Human Mismatch Repair by Paul Modrich</a></b></li>
+               <li><b><a target="_blank" href="img/ail(13).pdf" style="text-decoration:none;">Measuring the Acceleration of the Cosmic Expansion Using Supernovae by Saul Perlmutter</a></b></li>
                               
-<li><b><a target="_blank" href="img/ail(15).pdf" style="text-decoration:none;">Machine Learning and Data Mining Lecture Notes</a></b></li>
+<li><b><a target="_blank" href="img/ail(14).pdf" style="text-decoration:none;">Grid Cells and the Entorhinal Map of Space by Edvard I. Moser</a></b></li>
+<li><b><a target="_blank" href="img/ail(15).pdf" style="text-decoration:none;">The Theory and Practice of Market Design by Alvin E. Roth</a></b></li>
+
+
+
 <li><b><a target="_blank" href="img/ail(16).pdf" style="text-decoration:none;">Artificial Intelligence - IIT</a></b></li>
 
   <li><b><a target="_blank" href="img/ail(17).pdf" style="text-decoration:none;">Statistical Machine Learning </a></b></li>                              
