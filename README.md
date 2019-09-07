@@ -285,15 +285,15 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(167).pdf" style="text-decoration:none;">The molecular configuration of nucleic acids by Maurice Wilkins </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(61).pdf" style="text-decoration:none;">Holography, 1948-1971 by Dennis Gabor</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(168).pdf" style="text-decoration:none;">Antibody Structure and Molecular Immunology by Gerald M. Edelman</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(62).pdf" style="text-decoration:none;">Topological Defects and Phase Transitions by John Michael Kosterlitz </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(169).pdf" style="text-decoration:none;">Yeast and cancer by Leland H. Hartwell </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(63).pdf" style="text-decoration:none;">Intracellular Protein Degradation: From a Vague Idea thru the Lysosome and the Ubiquitin-Proteasome System and onto Human Diseases and Drug Targeting by Aaron Ciechanover</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(170).pdf" style="text-decoration:none;">DNA sequencing and gene structure by Walter Gilbert</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(64).pdf" style="text-decoration:none;">The Art of Building Small: from Molecular Switches to Motors by Ben L. Feringa</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(171).pdf" style="text-decoration:none;">Random Walk to Graphene by Andre Geim</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(65).pdf" style="text-decoration:none;">Topological Quantum Matter by F. Duncan M. Haldane </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(172).pdf" style="text-decoration:none;">A structural basis of light energy and electron transfer in biology by Robert Huber </a></b></li> 
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(66).pdf" style="text-decoration:none;">Telomerase Discovery: The Excitement of Putting Together Pieces of the Puzzle by Carol W. Greider </a></b></li>
  
