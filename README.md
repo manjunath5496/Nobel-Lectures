@@ -230,16 +230,15 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(135).pdf" style="text-decoration:none;">Deep inelastic scattering: Experiments on the proton and the observation of scaling by H. W. Kendall  </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(29).pdf" style="text-decoration:none;">Double Heterostructure Concept and its Applications in Physics, Electronics and Technology by Zhores Alferov </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(136).pdf" style="text-decoration:none;">My Life with O<sub>3</sub>, NO<sub>x</sub> and Other YZO<sub>x</sub>s by Paul J. Crutzen </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(30).pdf" style="text-decoration:none;">Supramolecular Chemistry – Scope and Perspectives
-Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(137).pdf" style="text-decoration:none;">Researches on Malaria by Ronald Ross</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(31).pdf" style="text-decoration:none;">The Manipulation of Neutral Particles by Steven Chu</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(138).pdf" style="text-decoration:none;">Concerning the Pleasures of Observing, and the Mechanics of the Inner Ear by Georg von Békésy</a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(32).pdf" style="text-decoration:none;">Telomeres and telomerase: the means to the end by EH Blackburn</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(139).pdf" style="text-decoration:none;">Postnatal development of the visual cortex and the influence of environment by Torsten N. Wiesel </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(33).pdf" style="text-decoration:none;">The Photosynthetic Reaction Centre from the Purple Bacterium Rhodopseudomonas Viridis by Johann Deisenhofer and Hartmut Michel</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(140).pdf" style="text-decoration:none;">The Identification of the Sodium-Potassium Pump by Jens C. Skou</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(34).pdf" style="text-decoration:none;">Nuclear Magnetic Resonance Fourier Transform Spectroscopy by Richard R. Ernst</a></b></li> 
  
