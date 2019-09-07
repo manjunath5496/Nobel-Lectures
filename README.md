@@ -123,6 +123,65 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
   <li><b><a target="_blank" href="img/ail(70).pdf" style="text-decoration:none;">Unraveling the Structure of the Ribosome by Venkatraman Ramakrishnan </a></b></li> 
   
  
+ <li><b><a target="_blank" href="img/ail(71).pdf" style="text-decoration:none;">Background Story of the Invention of Efficient Blue InGaN Light Emitting Diodes by Shuji Nakamura</a></b></li>
+ <li><b><a target="_blank" href="img/ail(73).pdf" style="text-decoration:none;">Solid Phase Synthesis by Bruce Merrifield  </a></b></li>
+  <li><b><a target="_blank" href="img/ail(74).pdf" style="text-decoration:none;">The Possibility of Social Choice by Amartya Sen</a></b></li>
+ <li><b><a target="_blank" href="img/ail(75).pdf" style="text-decoration:none;">The Host Defense of Insects: A Paradigm for Innate Immunity by Jules A. Hoffmann</a></b></li>                              
+<li><b><a target="_blank" href="img/ail(76).pdf" style="text-decoration:none;">Electronic Structure of Matter – Wave Functions and Density Functionals by Walter Kohn</a></b></li>
+<li><b><a target="_blank" href="img/ail(77).pdf" style="text-decoration:none;">The Path to Measuring an Accelerating Universe by Brian P. Schmidt</a></b></li>
+ 
+  <li><b><a target="_blank" href="img/ail(78).pdf" style="text-decoration:none;">Evolution of Ideas on the Primary Visual Cortex, 1955-1978: A Biased Historical Account by David H. Hubel </a></b></li>
+ <li><b><a target="_blank" href="img/ail(79).pdf" style="text-decoration:none;">Deep Inelastic Scattering: Comparisons with the Quark Model by Jerome I. Friedman</a></b></li>
+   <li><b><a target="_blank" href="img/ail(80).pdf" style="text-decoration:none;">The Quantized Hall Effect by Klaus von Klitzing</a></b></li>                             
+ <li><b><a target="_blank" href="img/ail(81).pdf" style="text-decoration:none;">Fractional Quantization by Robert B. Laughlin </a></b></li>                              
+<li><b><a target="_blank" href="img/ail(82).pdf" style="text-decoration:none;">A Confrontation with Infinity by Gerardus't Hooft</a></b></li>
+<li><b><a target="_blank" href="img/ail(83).pdf" style="text-decoration:none;">Spatial Configuration of Macromolecular Chains by Paul J. Flory</a></b></li>
+ <li><b><a target="_blank" href="img/ail(84).pdf" style="text-decoration:none;">The Development of the Electron Microscope and of Electron Microscopy by Ernst Ruska</a></b></li>
+                              
+<li><b><a target="_blank" href="img/ail(85).pdf" style="text-decoration:none;">Growth of GaN on Sapphire via Low-Temperature Deposited Buffer Layer and Realization of p-Type GaN by Mg Doping Followed by Low-Energy Electron Beam Irradiation by Hiroshi Amano</a></b></li>
+<li><b><a target="_blank" href="img/ail(86).pdf" style="text-decoration:none;">The Electron-Scattering Method and Its Application to the Structure of Nuclei and Nucleons by Robert Hofstadter</a></b></li>
+
+  <li><b><a target="_blank" href="img/ail(17).pdf" style="text-decoration:none;">Statistical Machine Learning </a></b></li>                              
+
+<li><b><a target="_blank" href="img/ail(19).pdf" style="text-decoration:none;">Lecture Notes in Machine Learning </a></b></li>
+ 
+<li><b><a target="_blank" href="img/ail(20).pdf" style="text-decoration:none;">Introduction to AI and Intelligent Systems </a></b></li>
+
+<li><b><a target="_blank" href="img/ail(21).pdf" style="text-decoration:none;">Machine Learning by Andrew NG Lecture Notes </a></b></li>
+ 
+  <li><b><a target="_blank" href="img/ail(22).pdf" style="text-decoration:none;">Computing Machinery And Intelligence </a></b></li>                              
+
+  <li><b><a target="_blank" href="img/ail(23).pdf" style="text-decoration:none;">Concise Machine Learning </a></b></li>
+ 
+   <li><b><a target="_blank" href="img/ail(24).pdf" style="text-decoration:none;">Artificial Intelligence - MIT </a></b></li>
+ 
+   <li><b><a target="_blank" href="img/ail(14).pdf" style="text-decoration:none;">Artificial Intelligence Lecture Notes </a></b></li>                              
+
+  <li><b><a target="_blank" href="img/ail(18).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Contemporary Knowledge Engineering and Cognition </a></b></li>
+ 
+   <li><b><a target="_blank" href="img/ail(25).pdf" style="text-decoration:none;">Artificial Intelligence (Künstliche Intelligenz) Lecture Notes </a></b></li>
+ 
+   <li><b><a target="_blank" href="img/ail(26).pdf" style="text-decoration:none;">15-381: Artificial Intelligence - Introduction and Overview </a></b></li>
+ 
+   <li><b><a target="_blank" href="img/ail(27).pdf" style="text-decoration:none;">Python code for Artificial Intelligence: Foundations of Computational Agents </a></b></li>                              
+
+  <li><b><a target="_blank" href="img/ail(28).pdf" style="text-decoration:none;">Introduction to Computer Vision </a></b></li>
+ 
+   <li><b><a target="_blank" href="img/ail(30).rar" style="text-decoration:none;">Deep Learning </a></b></li> 
+ 
+   <li><b><a target="_blank" href="img/ail(29).pdf" style="text-decoration:none;">The Robot and I: How New Digital Technologies Are Making Smart People and Businesses Smarter by Automating Rote Work </a></b></li>
+ 
+   <li><b><a target="_blank" href="img/ail(31).pdf" style="text-decoration:none;">Artificial Intelligence And Life In 2030 </a></b></li>                              
+
+  <li><b><a target="_blank" href="img/ail(32).pdf" style="text-decoration:none;">Research Priorities for Robust and Beneficial Artificial Intelligence </a></b></li> 
+ 
+  
+   <li><b><a target="_blank" href="img/ail(33).pdf" style="text-decoration:none;">Artificial Intelligence as a Positive and Negative Factor in Global Risk</a></b></li>                              
+
+  <li><b><a target="_blank" href="img/ail(34).pdf" style="text-decoration:none;">Artificial Intelligence, Robotics, Privacy and Data Protection </a></b></li> 
+ 
+ 
+ 
  
  
  
