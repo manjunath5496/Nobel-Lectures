@@ -159,26 +159,26 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 
   <li><b><a target="_blank" href="img/ail(95).pdf" style="text-decoration:none;">Optical Methods for Studying Hertzian Resonances by Alfred Kastler</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(25).pdf" style="text-decoration:none;">Artificial Intelligence (Künstliche Intelligenz) Lecture Notes </a></b></li>
+   <li><b><a target="_blank" href="img/ail(96).pdf" style="text-decoration:none;">Elementary Modes of Excitation in the Nucleus by Ben R. Mottelson </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(26).pdf" style="text-decoration:none;">15-381: Artificial Intelligence - Introduction and Overview </a></b></li>
+   <li><b><a target="_blank" href="img/ail(97).pdf" style="text-decoration:none;">The Shell Model by Maria Goeppert Mayer </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(27).pdf" style="text-decoration:none;">Python code for Artificial Intelligence: Foundations of Computational Agents </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(98).pdf" style="text-decoration:none;">From Weak Interactions to Gravitation by Martinus J.G. Veltman </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(28).pdf" style="text-decoration:none;">Introduction to Computer Vision </a></b></li>
+  <li><b><a target="_blank" href="img/ail(99).pdf" style="text-decoration:none;">Scents and Sensibility: A Molecular Logic of Olfactory Perception by Richard Axel</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(30).rar" style="text-decoration:none;">Deep Learning </a></b></li> 
+   <li><b><a target="_blank" href="img/ail(100).pdf" style="text-decoration:none;">Some Polycyclic Natural Products by Sir Robert Robinson</a></b></li> 
  
-   <li><b><a target="_blank" href="img/ail(29).pdf" style="text-decoration:none;">The Robot and I: How New Digital Technologies Are Making Smart People and Businesses Smarter by Automating Rote Work </a></b></li>
+   <li><b><a target="_blank" href="img/ail(101).pdf" style="text-decoration:none;">The Discovery of Crown Ethers by Charles J. Pedersen </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(31).pdf" style="text-decoration:none;">Artificial Intelligence And Life In 2030 </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(102).pdf" style="text-decoration:none;">On the Cloud Method of Making Visible Ions and the Tracks of Ionizing Particles by C.T.R. Wilson</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(32).pdf" style="text-decoration:none;">Research Priorities for Robust and Beneficial Artificial Intelligence </a></b></li> 
+  <li><b><a target="_blank" href="img/ail(103).pdf" style="text-decoration:none;">Genes and Proteins That Control the Secretory Pathway by Randy W. Schekman</a></b></li> 
  
   
-   <li><b><a target="_blank" href="img/ail(33).pdf" style="text-decoration:none;">Artificial Intelligence as a Positive and Negative Factor in Global Risk</a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(104).pdf" style="text-decoration:none;">Radio Telescopes of Large Resolving Power by Martin Ryle</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(34).pdf" style="text-decoration:none;">Artificial Intelligence, Robotics, Privacy and Data Protection </a></b></li> 
+  <li><b><a target="_blank" href="img/ail(105).pdf" style="text-decoration:none;">The Ultracentrifuge by The Svedberg</a></b></li> 
  
  
  
