@@ -188,7 +188,17 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(109).pdf" style="text-decoration:none;">CCD – an Extension of Man's Vision by Willard S. Boyle</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(110).pdf" style="text-decoration:none;">Exclusion Principle and Quantum Mechanics by Wolfgang Pauli</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(6).pdf" style="text-decoration:none;">Development of Multiscale Models for Complex Chemical Systems From H+H<sub>2</sub> to Biomolecules by Martin Karplus</a></b></li>
+
+
+
+
+
+
+
+
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(111).pdf" style="text-decoration:none;">Development of Multiscale Models for Complex Chemical Systems From H+H<sub>2</sub> to Biomolecules by Eugene Wigner</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(7).pdf" style="text-decoration:none;">Procuring Universal Service: Putting Auction Theory to Work</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(8).pdf" style="text-decoration:none;">Femtochemistry: Atomic-Scale Dynamics of the Chemical Bond Using Ultrafast Lasers by Ahmed Zewail</a></b></li>
