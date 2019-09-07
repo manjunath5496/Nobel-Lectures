@@ -399,17 +399,18 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(234).pdf" style="text-decoration:none;">The development of cortisone as a therapeutic agent by Edward Calvin Kendall</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(23).pdf" style="text-decoration:none;">Discovery of Atmospheric Neutrino Oscillations by Takaaki Kajita </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(235).pdf" style="text-decoration:none;">The relationships between isosterism and competitive phenomena in the field of drug therapy of the
+autonomic nervous system and that of the neuromuscular transmission by Daniel Bovet </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(24).pdf" style="text-decoration:none;">The Winding Road to Pluripotency by Shinya Yamanaka</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(236).pdf" style="text-decoration:none;">The Origin, Development and Future of Spintronics by Albert Fert </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(25).pdf" style="text-decoration:none;">When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser by Wolfgang Ketterle</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(237).pdf" style="text-decoration:none;">Australia Antigen and the Biology of Hepatitis B by Baruch S. Blumberg</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(26).pdf" style="text-decoration:none;">Experimental and Theoretical Nuclear Astrophysics; the Quest for the Origin of the Elements by William A. Fowler</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(238).pdf" style="text-decoration:none;">Experiments on the interaction of high-speed nucleons with atomic nuclei by John Cockcroft </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(27).pdf" style="text-decoration:none;">Laser Cooling and Trapping of Neutral Atoms by William D. Phillips</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(239).pdf" style="text-decoration:none;">The X-ray analysis of complicated molecules by Dorothy Crowfoot Hodgkin</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(28).pdf" style="text-decoration:none;">Symmetry, Space, Stars and C<sub>60</sub> by Sir Harold Kroto </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(240).pdf" style="text-decoration:none;">The chemical structure of the penicillins by Ernst Boris Chain </a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(29).pdf" style="text-decoration:none;">Double Heterostructure Concept and its Applications in Physics, Electronics and Technology by Zhores Alferov </a></b></li>                              
 
