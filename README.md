@@ -113,14 +113,14 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
  
    <li><b><a target="_blank" href="img/ail(66).pdf" style="text-decoration:none;">Telomerase Discovery: The Excitement of Putting Together Pieces of the Puzzle by Carol W. Greider </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(31).pdf" style="text-decoration:none;">Artificial Intelligence And Life In 2030 </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(67).pdf" style="text-decoration:none;">ATP Synthesis by Rotary Catalysis by John E. Walker</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(32).pdf" style="text-decoration:none;">Research Priorities for Robust and Beneficial Artificial Intelligence </a></b></li> 
+  <li><b><a target="_blank" href="img/ail(68).pdf" style="text-decoration:none;">The Role of MHC Gene Products in Immune Regulation and Its Relevance to Alloreactivity by Baruj Benacerraf</a></b></li> 
  
   
-   <li><b><a target="_blank" href="img/ail(33).pdf" style="text-decoration:none;">Artificial Intelligence as a Positive and Negative Factor in Global Risk</a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(69).pdf" style="text-decoration:none;">Discovering the Fullerenes by Richard E. Smalley</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(34).pdf" style="text-decoration:none;">Artificial Intelligence, Robotics, Privacy and Data Protection </a></b></li> 
+  <li><b><a target="_blank" href="img/ail(70).pdf" style="text-decoration:none;">Unraveling the Structure of the Ribosome by Venkatraman Ramakrishnan </a></b></li> 
   
  
  
