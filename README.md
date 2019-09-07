@@ -101,17 +101,17 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 
   <li><b><a target="_blank" href="img/ail(60).pdf" style="text-decoration:none;">The Biological Fixation of Nitrogen and the Preservation of Fodder in Agriculture, and Their Importance to Human Nutrition by Artturi Virtanen </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(25).pdf" style="text-decoration:none;">Artificial Intelligence (Künstliche Intelligenz) Lecture Notes </a></b></li>
+   <li><b><a target="_blank" href="img/ail(61).pdf" style="text-decoration:none;">Holography, 1948-1971 by Dennis Gabor</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(26).pdf" style="text-decoration:none;">15-381: Artificial Intelligence - Introduction and Overview </a></b></li>
+   <li><b><a target="_blank" href="img/ail(62).pdf" style="text-decoration:none;">Topological Defects and Phase Transitions by John Michael Kosterlitz </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(27).pdf" style="text-decoration:none;">Python code for Artificial Intelligence: Foundations of Computational Agents </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(63).pdf" style="text-decoration:none;">Intracellular Protein Degradation: From a Vague Idea thru the Lysosome and the Ubiquitin-Proteasome System and onto Human Diseases and Drug Targeting by Aaron Ciechanover</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(28).pdf" style="text-decoration:none;">Introduction to Computer Vision </a></b></li>
+  <li><b><a target="_blank" href="img/ail(64).pdf" style="text-decoration:none;">The Art of Building Small: from Molecular Switches to Motors by Ben L. Feringa</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(30).rar" style="text-decoration:none;">Deep Learning </a></b></li> 
+   <li><b><a target="_blank" href="img/ail(65).pdf" style="text-decoration:none;">Topological Quantum Matter by F. Duncan M. Haldane </a></b></li> 
  
-   <li><b><a target="_blank" href="img/ail(29).pdf" style="text-decoration:none;">The Robot and I: How New Digital Technologies Are Making Smart People and Businesses Smarter by Automating Rote Work </a></b></li>
+   <li><b><a target="_blank" href="img/ail(66).pdf" style="text-decoration:none;">Telomerase Discovery: The Excitement of Putting Together Pieces of the Puzzle by Carol W. Greider </a></b></li>
  
    <li><b><a target="_blank" href="img/ail(31).pdf" style="text-decoration:none;">Artificial Intelligence And Life In 2030 </a></b></li>                              
 
