@@ -83,23 +83,23 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 <li><b><a target="_blank" href="img/ail(50).pdf" style="text-decoration:none;">Experimental Observation of the Intermediate Vector Bosons W<sup>+</sup>, W<sup>–</sup> and Z<sup>0</sup> by Carlo Rubbia</a></b></li>
 <li><b><a target="_blank" href="img/ail(51).pdf" style="text-decoration:none;">Unconventional Viruses and the Origin and Disappearance of Kuru by D. Carleton Gajdusek</a></b></li>
 
-  <li><b><a target="_blank" href="img/ail(17).pdf" style="text-decoration:none;">Statistical Machine Learning </a></b></li>                              
+  <li><b><a target="_blank" href="img/ail(52).pdf" style="text-decoration:none;">Asymmetric Catalysis: Science and Technology by Ryoji Noyori</a></b></li>                              
 
-<li><b><a target="_blank" href="img/ail(19).pdf" style="text-decoration:none;">Lecture Notes in Machine Learning </a></b></li>
+<li><b><a target="_blank" href="img/ail(53).pdf" style="text-decoration:none;">Manipulating Atoms with Photons by Claude Cohen-Tannoudji </a></b></li>
  
-<li><b><a target="_blank" href="img/ail(20).pdf" style="text-decoration:none;">Introduction to AI and Intelligent Systems </a></b></li>
+<li><b><a target="_blank" href="img/ail(54).pdf" style="text-decoration:none;">Mechanically Interlocked Molecules (MIMs)—Molecular Shuttles, Switches, and Machines by J. Fraser Stoddart </a></b></li>
 
-<li><b><a target="_blank" href="img/ail(21).pdf" style="text-decoration:none;">Machine Learning by Andrew NG Lecture Notes </a></b></li>
+<li><b><a target="_blank" href="img/ail(55).pdf" style="text-decoration:none;">Spectroscopic Studies of Molecular Structure by Gerhard Herzberg</a></b></li>
  
-  <li><b><a target="_blank" href="img/ail(22).pdf" style="text-decoration:none;">Computing Machinery And Intelligence </a></b></li>                              
+  <li><b><a target="_blank" href="img/ail(56).pdf" style="text-decoration:none;">Sand from Centuries Past: Send Future Voices Fast by Charles K. Kao </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(23).pdf" style="text-decoration:none;">Concise Machine Learning </a></b></li>
+  <li><b><a target="_blank" href="img/ail(57).pdf" style="text-decoration:none;">Hibernating Bears, Antibiotics and the Evolving Ribosome by Ada E. Yonath </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(24).pdf" style="text-decoration:none;">Artificial Intelligence - MIT </a></b></li>
+   <li><b><a target="_blank" href="img/ail(58).pdf" style="text-decoration:none;">From Chemical Topology to Molecular Machines by Jean-Pierre Sauvage </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(14).pdf" style="text-decoration:none;">Artificial Intelligence Lecture Notes </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(59).pdf" style="text-decoration:none;">Production of Coherent Radiation by Atoms and Molecules by Charles H. Townes</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(18).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Contemporary Knowledge Engineering and Cognition </a></b></li>
+  <li><b><a target="_blank" href="img/ail(60).pdf" style="text-decoration:none;">The Biological Fixation of Nitrogen and the Preservation of Fodder in Agriculture, and Their Importance to Human Nutrition by Artturi Virtanen </a></b></li>
  
    <li><b><a target="_blank" href="img/ail(25).pdf" style="text-decoration:none;">Artificial Intelligence (Künstliche Intelligenz) Lecture Notes </a></b></li>
  
