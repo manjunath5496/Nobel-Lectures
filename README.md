@@ -141,17 +141,17 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 <li><b><a target="_blank" href="img/ail(85).pdf" style="text-decoration:none;">Growth of GaN on Sapphire via Low-Temperature Deposited Buffer Layer and Realization of p-Type GaN by Mg Doping Followed by Low-Energy Electron Beam Irradiation by Hiroshi Amano</a></b></li>
 <li><b><a target="_blank" href="img/ail(86).pdf" style="text-decoration:none;">The Electron-Scattering Method and Its Application to the Structure of Nuclei and Nucleons by Robert Hofstadter</a></b></li>
 
-  <li><b><a target="_blank" href="img/ail(17).pdf" style="text-decoration:none;">Statistical Machine Learning </a></b></li>                              
+  <li><b><a target="_blank" href="img/ail(87).pdf" style="text-decoration:none;">Rotational Motion in Nuclei by Aage N. Bohr </a></b></li>                              
 
-<li><b><a target="_blank" href="img/ail(19).pdf" style="text-decoration:none;">Lecture Notes in Machine Learning </a></b></li>
+<li><b><a target="_blank" href="img/ail(88).pdf" style="text-decoration:none;">The Pomeranchuk Effect by Robert C. Richardson </a></b></li>
  
-<li><b><a target="_blank" href="img/ail(20).pdf" style="text-decoration:none;">Introduction to AI and Intelligent Systems </a></b></li>
+<li><b><a target="_blank" href="img/ail(89).pdf" style="text-decoration:none;">Semiconducting and Metallic Polymers: The Fourth Generation of Polymeric Materials by Alan Heeger </a></b></li>
 
-<li><b><a target="_blank" href="img/ail(21).pdf" style="text-decoration:none;">Machine Learning by Andrew NG Lecture Notes </a></b></li>
+<li><b><a target="_blank" href="img/ail(90).pdf" style="text-decoration:none;">Experiments with High-Energy Neutrino Beams by Jack Steinberger </a></b></li>
  
-  <li><b><a target="_blank" href="img/ail(22).pdf" style="text-decoration:none;">Computing Machinery And Intelligence </a></b></li>                              
+  <li><b><a target="_blank" href="img/ail(91).pdf" style="text-decoration:none;">Magnetism and the Local Molecular Field by Louis Néel</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(23).pdf" style="text-decoration:none;">Concise Machine Learning </a></b></li>
+  <li><b><a target="_blank" href="img/ail(92).pdf" style="text-decoration:none;">Direct Methods and Anomalous Dispersion by Herbert A. Hauptman</a></b></li>
  
    <li><b><a target="_blank" href="img/ail(24).pdf" style="text-decoration:none;">Artificial Intelligence - MIT </a></b></li>
  
