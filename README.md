@@ -188,16 +188,13 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(109).pdf" style="text-decoration:none;">CCD – an Extension of Man's Vision by Willard S. Boyle</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(110).pdf" style="text-decoration:none;">Exclusion Principle and Quantum Mechanics by Wolfgang Pauli</a></b></li>
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(111).pdf" style="text-decoration:none;">Events, laws of nature, and invariance principles by Eugene Wigner</a></b></li>
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(111).pdf" style="text-decoration:none;">Events, laws of nature, and invariance principles by Eugene Wigner</a></b></li> 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(112).pdf" style="text-decoration:none;">Relativistic Quantum Field Theory by Julian Schwinger</a></b></li>
-  
-  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(8).pdf" style="text-decoration:none;">Femtochemistry: Atomic-Scale Dynamics of the Chemical Bond Using Ultrafast Lasers by Ahmed Zewail</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(9).pdf" style="text-decoration:none;">Ralph Steinman and the Discovery of Dendritic Cells by Ralph M. Steinman</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(10).pdf" style="text-decoration:none;">Spatial Cells in the Hippocampal Formation by John O'Keefe </a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(113).pdf" style="text-decoration:none;">Investigations on Spiroptera carcinoma and the experimental induction of cancer by Johannes Fibiger </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(114).pdf" style="text-decoration:none;">Computed medical imaging by GN Hounsfield</a></b></li> 
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(115).pdf" style="text-decoration:none;"> David Keilin's Respiratory Chain Concept and Its Chemiosmotic Consequences by Peter Mitchell </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(11).pdf" style="text-decoration:none;">Grid Cells, Place Cells and Memory by May-Britt Moser</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(12).pdf" style="text-decoration:none;">Mechanisms in E. coli and Human Mismatch Repair by Paul Modrich</a></b></li>
                <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(13).pdf" style="text-decoration:none;">Measuring the Acceleration of the Cosmic Expansion Using Supernovae by Saul Perlmutter</a></b></li>
