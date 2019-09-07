@@ -190,17 +190,11 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(110).pdf" style="text-decoration:none;">Exclusion Principle and Quantum Mechanics by Wolfgang Pauli</a></b></li>
 
 
-
-
-
-
-
-
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(111).pdf" style="text-decoration:none;">Development of Multiscale Models for Complex Chemical Systems From H+H<sub>2</sub> to Biomolecules by Eugene Wigner</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(111).pdf" style="text-decoration:none;">Events, laws of nature, and invariance principles by Eugene Wigner</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(7).pdf" style="text-decoration:none;">Procuring Universal Service: Putting Auction Theory to Work</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(112).pdf" style="text-decoration:none;">Relativistic Quantum Field Theory by Julian Schwinger</a></b></li>
+  
+  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(8).pdf" style="text-decoration:none;">Femtochemistry: Atomic-Scale Dynamics of the Chemical Bond Using Ultrafast Lasers by Ahmed Zewail</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(9).pdf" style="text-decoration:none;">Ralph Steinman and the Discovery of Dendritic Cells by Ralph M. Steinman</a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(10).pdf" style="text-decoration:none;">Spatial Cells in the Hippocampal Formation by John O'Keefe </a></b></li>                              
