@@ -380,24 +380,24 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(224).pdf" style="text-decoration:none;">From the stereospecific polymerization to the asymmetric autocatalytic synthesis of macromolecules by Giulio Natta </a></b></li>
                <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(225).pdf" style="text-decoration:none;">Development of the acetylation problem: a personal account by Fritz Lipmann</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(14).pdf" style="text-decoration:none;">Grid Cells and the Entorhinal Map of Space by Edvard I. Moser</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(15).pdf" style="text-decoration:none;">The Theory and Practice of Market Design by Alvin E. Roth</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(226).pdf" style="text-decoration:none;">Building Bridges Between Inorganic and Organic Chemistry by Roald Hoffmann</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(227).pdf" style="text-decoration:none;">Genetics of the bacterial cell by François Jacob</a></b></li>
 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(16).pdf" style="text-decoration:none;">Single-Molecule Spectroscopy, Imaging, and Photocontrol: Foundations for Super-Resolution Microscopy by W. E. (William E.) Moerner</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(228).pdf" style="text-decoration:none;">From Little Acorns to Tall Oaks – from Boranes through Organoboranes by Herbert C. Brown</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(17).pdf" style="text-decoration:none;">Single Molecules, Cells, and Super-Resolution Optics by Eric Betzig</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(229).pdf" style="text-decoration:none;">The Boranes and Their Relatives by William Lipscomb</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(18).pdf" style="text-decoration:none;">The Molecular Machinery of Neurotransmitter Release by Thomas C. Südhof</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(230).pdf" style="text-decoration:none;">Electron Transfer Reactions in Chemistry: Theory and Experiment by Rudolph A. Marcus</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(19).pdf" style="text-decoration:none;">Multiscale Modeling of Biological Functions: From Enzymes to Molecular Machines by Arieh Warshel </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(231).pdf" style="text-decoration:none;">The structure of the atom by Niels Bohr </a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(20).pdf" style="text-decoration:none;">The Structural Basis of G Protein Coupled Receptor Signaling by Brian Kobilka </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(232).pdf" style="text-decoration:none;">Concerning pathological manifestations in low-grade thyroid diseases by Emil Theodor Kocher </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(21).pdf" style="text-decoration:none;">Nanoscopy with Focused Light by Stefan W. Hell</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(233).pdf" style="text-decoration:none;">X-rays as a branch of optics by Arthur H. Compton</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(22).pdf" style="text-decoration:none;">The Molecular Biology of Memory Storage: A Dialog between Genes and Synapses by Eric Kandel</a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(234).pdf" style="text-decoration:none;">The development of cortisone as a therapeutic agent by Edward Calvin Kendall</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(23).pdf" style="text-decoration:none;">Discovery of Atmospheric Neutrino Oscillations by Takaaki Kajita </a></b></li>
  
