@@ -153,11 +153,11 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 
   <li><b><a target="_blank" href="img/ail(92).pdf" style="text-decoration:none;">Direct Methods and Anomalous Dispersion by Herbert A. Hauptman</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(24).pdf" style="text-decoration:none;">Artificial Intelligence - MIT </a></b></li>
+   <li><b><a target="_blank" href="img/ail(93).pdf" style="text-decoration:none;">Nonlinear Optics and Spectroscopy by Nicolaas Bloembergen </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(14).pdf" style="text-decoration:none;">Artificial Intelligence Lecture Notes </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(94).pdf" style="text-decoration:none;">Unraveling the Sense of Smell by Linda B. Buck</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(18).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Contemporary Knowledge Engineering and Cognition </a></b></li>
+  <li><b><a target="_blank" href="img/ail(95).pdf" style="text-decoration:none;">Optical Methods for Studying Hertzian Resonances by Alfred Kastler</a></b></li>
  
    <li><b><a target="_blank" href="img/ail(25).pdf" style="text-decoration:none;">Artificial Intelligence (Künstliche Intelligenz) Lecture Notes </a></b></li>
  
