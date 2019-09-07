@@ -254,22 +254,22 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(146).pdf" style="text-decoration:none;">Investigations into the properties of substances at low temperatures, which have led, amongst other things, to the preparation of liquid helium by Heike Kamerlingh Onnes</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(147).pdf" style="text-decoration:none;">Myoglobin and the structure of proteins by John C. Kendrew</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(148).pdf" style="text-decoration:none;">Slow neutron spectroscopy and the grand atlas of the physical world by Bertram N. Brockhouse</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(42).pdf" style="text-decoration:none;">Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments by Carl Wieman</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(149).pdf" style="text-decoration:none;">The Structure and Connexions of Neurons by Santiago Ramón y Cajal</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(43).pdf" style="text-decoration:none;">The Extraordinary Phases of Liquid <sup>3</sup>He by David M. Lee </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(44).pdf" style="text-decoration:none;">A Half-Century of Neurotransmitter Research: Impact on Neurology and Psychiatry by Arvid Carlsson</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(45).pdf" style="text-decoration:none;">Quasi-Electric Fields and Band Offsets: Teaching Electrons New Tricks by Herbert Kroemer</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(46).pdf" style="text-decoration:none;">The Invention and Early History of the CCD by George E. Smith</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(47).pdf" style="text-decoration:none;">Peptides in the Brain. The New Endocrinology of the Neuron by Roger Guillemin</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(48).pdf" style="text-decoration:none;">DNA Ends: Just the Beginning by Jack W. Szostak</a></b></li>
-               <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(49).pdf" style="text-decoration:none;">The Neurobiology of Dopamine Signaling by Paul Greengard</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(150).pdf" style="text-decoration:none;">Early two-dimensional reconstruction and recent topics stemming from it by Allan M. Cormack  </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(151).pdf" style="text-decoration:none;">My Path to the Accelerating Universe by Adam G. Riess</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(152).pdf" style="text-decoration:none;">Interplay of Disorder and Interaction in Two-Dimensional Electron Gas in Intense Magnetic Fields by Daniel C. Tsui</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(153).pdf" style="text-decoration:none;"> Quantum Chemical Models by John Pople</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(154).pdf" style="text-decoration:none;">Consequences and development of an invention by Karl Ziegler</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(155).pdf" style="text-decoration:none;">Life Cycle, Individual Thrift and the Wealth of Nations by Franco Modigliani</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(156).pdf" style="text-decoration:none;">Molecular Beam Studies of Elementary Chemical Processes by Yuan Tseh Lee</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(50).pdf" style="text-decoration:none;">Experimental Observation of the Intermediate Vector Bosons W<sup>+</sup>, W<sup>–</sup> and Z<sup>0</sup> by Carlo Rubbia</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(51).pdf" style="text-decoration:none;">Unconventional Viruses and the Origin and Disappearance of Kuru by D. Carleton Gajdusek</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(157).pdf" style="text-decoration:none;">The discovery of polyacetylene film—the dawning of an era of conducting polymers by Hideki Shirakawa</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(158).pdf" style="text-decoration:none;">Ethology and Stress Diseases by Nikolaas Tinbergen</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(52).pdf" style="text-decoration:none;">Asymmetric Catalysis: Science and Technology by Ryoji Noyori</a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(159).pdf" style="text-decoration:none;">Further progress in chemotherapy of bacterial infections by Gerhard Domagk</a></b></li>                              
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(53).pdf" style="text-decoration:none;">Manipulating Atoms with Photons by Claude Cohen-Tannoudji </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(160).pdf" style="text-decoration:none;">Perovskite‐Type Oxides—the New Approach to High‐T<sub>c</sub> Superconductivity by J. Georg Bednorz and K. Alex Müller</a></b></li>
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(54).pdf" style="text-decoration:none;">Mechanically Interlocked Molecules (MIMs)—Molecular Shuttles, Switches, and Machines by J. Fraser Stoddart </a></b></li>
 
