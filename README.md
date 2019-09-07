@@ -412,16 +412,15 @@ autonomic nervous system and that of the neuromuscular transmission by Daniel Bo
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(240).pdf" style="text-decoration:none;">The chemical structure of the penicillins by Ernst Boris Chain </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(29).pdf" style="text-decoration:none;">Double Heterostructure Concept and its Applications in Physics, Electronics and Technology by Zhores Alferov </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(241).pdf" style="text-decoration:none;"> Adventures and excursions in bioassay: the stepping stones to prostacyclin by John R. Vane </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(30).pdf" style="text-decoration:none;">Supramolecular Chemistry – Scope and Perspectives
-Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(242).pdf" style="text-decoration:none;">Helicobacter: The Ease and Difficulty of a New Discovery by J. Robin Warren </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(31).pdf" style="text-decoration:none;">The Manipulation of Neutral Particles by Steven Chu</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(243).pdf" style="text-decoration:none;">Nucleotide Sequence Specificity of Restriction Endonucleases by Hamilton O. Smith</a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(32).pdf" style="text-decoration:none;">Telomeres and telomerase: the means to the end by EH Blackburn</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(244).pdf" style="text-decoration:none;"> My Search for Carbocations and Their Role in Chemistry by George A. Olah</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(33).pdf" style="text-decoration:none;">The Photosynthetic Reaction Centre from the Purple Bacterium Rhodopseudomonas Viridis by Johann Deisenhofer and Hartmut Michel</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(245).pdf" style="text-decoration:none;">Observations in Particle Physics from Two Neutrinos to the Standard Model by Leon M. Lederman</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(34).pdf" style="text-decoration:none;">Nuclear Magnetic Resonance Fourier Transform Spectroscopy by Richard R. Ernst</a></b></li> 
  
