@@ -72,16 +72,16 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 <li><b><a target="_blank" href="img/ail(41).pdf" style="text-decoration:none;">Fascinated Journeys into Blue Light by Isamu Akasaki</a></b></li>
 <li><b><a target="_blank" href="img/ail(42).pdf" style="text-decoration:none;">Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments by Carl Wieman</a></b></li>
  
-  <li><b><a target="_blank" href="img/ail(7).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Engineering Societies in the Agents World V</a></b></li>
- <li><b><a target="_blank" href="img/ail(8).pdf" style="text-decoration:none;">CSE176 Introduction to Machine Learning — Lecture notes </a></b></li>
-   <li><b><a target="_blank" href="img/ail(9).pdf" style="text-decoration:none;">Mathematics for Machine Learning</a></b></li>                             
- <li><b><a target="_blank" href="img/ail(10).pdf" style="text-decoration:none;">Lectures on Machine Learning: From artificial intelligence to machine learning </a></b></li>                              
-<li><b><a target="_blank" href="img/ail(11).pdf" style="text-decoration:none;">CS725: Foundations of Machine learning - Lecture Notes</a></b></li>
-<li><b><a target="_blank" href="img/ail(12).pdf" style="text-decoration:none;">Lecture Notes On Artificial Intelligence</a></b></li>
-               <li><b><a target="_blank" href="img/ail(13).pdf" style="text-decoration:none;">Introduction to Artificial Intelligence</a></b></li>
+  <li><b><a target="_blank" href="img/ail(43).pdf" style="text-decoration:none;">The Extraordinary Phases of Liquid <sup>3</sup>He by David M. Lee </a></b></li>
+ <li><b><a target="_blank" href="img/ail(44).pdf" style="text-decoration:none;">A Half-Century of Neurotransmitter Research: Impact on Neurology and Psychiatry by Arvid Carlsson</a></b></li>
+   <li><b><a target="_blank" href="img/ail(45).pdf" style="text-decoration:none;">Quasi-Electric Fields and Band Offsets: Teaching Electrons New Tricks by Herbert Kroemer</a></b></li>                             
+ <li><b><a target="_blank" href="img/ail(46).pdf" style="text-decoration:none;">The Invention and Early History of the CCD by George E. Smith</a></b></li>                              
+<li><b><a target="_blank" href="img/ail(47).pdf" style="text-decoration:none;">Peptides in the Brain. The New Endocrinology of the Neuron by Roger Guillemin</a></b></li>
+<li><b><a target="_blank" href="img/ail(48).pdf" style="text-decoration:none;">DNA Ends: Just the Beginning by Jack W. Szostak</a></b></li>
+               <li><b><a target="_blank" href="img/ail(49).pdf" style="text-decoration:none;">The Neurobiology of Dopamine Signaling by Paul Greengard</a></b></li>
                               
-<li><b><a target="_blank" href="img/ail(15).pdf" style="text-decoration:none;">Machine Learning and Data Mining Lecture Notes</a></b></li>
-<li><b><a target="_blank" href="img/ail(16).pdf" style="text-decoration:none;">Artificial Intelligence - IIT</a></b></li>
+<li><b><a target="_blank" href="img/ail(50).pdf" style="text-decoration:none;">Experimental Observation of the Intermediate Vector Bosons W<sup>+</sup>, W<sup>–</sup> and Z<sup>0</sup> by Carlo Rubbia</a></b></li>
+<li><b><a target="_blank" href="img/ail(51).pdf" style="text-decoration:none;">Unconventional Viruses and the Origin and Disappearance of Kuru by D. Carleton Gajdusek</a></b></li>
 
   <li><b><a target="_blank" href="img/ail(17).pdf" style="text-decoration:none;">Statistical Machine Learning </a></b></li>                              
 
