@@ -208,21 +208,21 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(122).pdf" style="text-decoration:none;">Energy, Life, and ATP by Paul D. Boyer</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(18).pdf" style="text-decoration:none;">The Molecular Machinery of Neurotransmitter Release by Thomas C. Südhof</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(123).pdf" style="text-decoration:none;">Magical Power of Transition Metals: Past, Present, and Future by Ei-ichi Negishi</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(19).pdf" style="text-decoration:none;">Multiscale Modeling of Biological Functions: From Enzymes to Molecular Machines by Arieh Warshel </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(124).pdf" style="text-decoration:none;">The Discovery of the J Particle: A Personal Recollection by Samuel C.C. Ting </a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(20).pdf" style="text-decoration:none;">The Structural Basis of G Protein Coupled Receptor Signaling by Brian Kobilka </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(125).pdf" style="text-decoration:none;">Asymmetric Hydrogenations by William S. Knowles </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(21).pdf" style="text-decoration:none;">Nanoscopy with Focused Light by Stefan W. Hell</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(126).pdf" style="text-decoration:none;">Asymptotic Freedom: From Paradox to Paradigm by Frank Wilczek</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(22).pdf" style="text-decoration:none;">The Molecular Biology of Memory Storage: A Dialog between Genes and Synapses by Eric Kandel</a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(127).pdf" style="text-decoration:none;">Cosmic Microwave Background Radiation Anisotropies: Their Discovery and Utilization by George F. Smoot</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(23).pdf" style="text-decoration:none;">Discovery of Atmospheric Neutrino Oscillations by Takaaki Kajita </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(128).pdf" style="text-decoration:none;">Some Concepts in Reaction Dynamics by John C. Polanyi </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(24).pdf" style="text-decoration:none;">The Winding Road to Pluripotency by Shinya Yamanaka</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(129).pdf" style="text-decoration:none;">G Proteins and Regulation of Adenylyl Cyclase by Alfred G. Gilman</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(25).pdf" style="text-decoration:none;">When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser by Wolfgang Ketterle</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(130).pdf" style="text-decoration:none;">Dawn of Fullerenes: Conjecture and Experiment by Robert F. Curl Jr.</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(26).pdf" style="text-decoration:none;">Experimental and Theoretical Nuclear Astrophysics; the Quest for the Origin of the Elements by William A. Fowler</a></b></li>
  
