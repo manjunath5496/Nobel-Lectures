@@ -240,14 +240,16 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(140).pdf" style="text-decoration:none;">The Identification of the Sodium-Potassium Pump by Jens C. Skou</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(34).pdf" style="text-decoration:none;">Nuclear Magnetic Resonance Fourier Transform Spectroscopy by Richard R. Ernst</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(141).pdf" style="text-decoration:none;">Chemical Reactions under High Pressure by Friedrich Bergius </a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(35).pdf" style="text-decoration:none;">"Synthetic Metals": A Novel Role for Organic Polymers by Alan MacDiarmid</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(142).pdf" style="text-decoration:none;">Graphene: Materials in the Flatland by Konstantin Novoselov</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(36).pdf" style="text-decoration:none;">Turning Potential into Reality: The Invention of the Integrated Circuit by Jack Kilby</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(143).pdf" style="text-decoration:none;">Electronic Imaging of Ionizing Radiation with Limited Avalanches in Gases by Georges Charpak</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(37).pdf" style="text-decoration:none;">Intracellular Aspects of the Process of Protein Secretion by George E. Palade</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(144).pdf" style="text-decoration:none;">Cloud Chamber Researches in Nuclear Physics and Cosmic Radiation by Patrick M.S. Blackett</a></b></li>
+
+
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(38).pdf" style="text-decoration:none;">The Fractional Quantum Hall Effect by Horst L. Störmer</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(39).pdf" style="text-decoration:none;">Superfluidity in <sup>3</sup>He: Discovery and Understandning by Douglas D. Osheroff</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(40).pdf" style="text-decoration:none;">From the Structure and Function of the Ribosome to New Antibiotics by Thomas A. Steitz</a></b></li>                              
