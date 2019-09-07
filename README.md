@@ -295,7 +295,7 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(172).pdf" style="text-decoration:none;">A structural basis of light energy and electron transfer in biology by Robert Huber </a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(66).pdf" style="text-decoration:none;">Telomerase Discovery: The Excitement of Putting Together Pieces of the Puzzle by Carol W. Greider </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(173).pdf" style="text-decoration:none;">Dissections and reconstructions of genes and chromosomes by Paul Berg </a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(67).pdf" style="text-decoration:none;">ATP Synthesis by Rotary Catalysis by John E. Walker</a></b></li>                              
 
