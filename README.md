@@ -422,14 +422,19 @@ autonomic nervous system and that of the neuromuscular transmission by Daniel Bo
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(245).pdf" style="text-decoration:none;">Observations in Particle Physics from Two Neutrinos to the Standard Model by Leon M. Lederman</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(34).pdf" style="text-decoration:none;">Nuclear Magnetic Resonance Fourier Transform Spectroscopy by Richard R. Ernst</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(246).pdf" style="text-decoration:none;">Nucleic acid synthesis in the study of the genetic code by Har Gobind Khorana</a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(35).pdf" style="text-decoration:none;">"Synthetic Metals": A Novel Role for Organic Polymers by Alan MacDiarmid</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(248).pdf" style="text-decoration:none;">Radiocarbon dating by Willard F. Libby</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(36).pdf" style="text-decoration:none;">Turning Potential into Reality: The Invention of the Integrated Circuit by Jack Kilby</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(249).pdf" style="text-decoration:none;">Long Journey into Tunnelling by Leo Esaki</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(37).pdf" style="text-decoration:none;">Intracellular Aspects of the Process of Protein Secretion by George E. Palade</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(250).pdf" style="text-decoration:none;">Spectroscopy in a New Light by Arthur L. Schawlow</a></b></li>
+
+
+
+
+
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(38).pdf" style="text-decoration:none;">The Fractional Quantum Hall Effect by Horst L. Störmer</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(39).pdf" style="text-decoration:none;">Superfluidity in <sup>3</sup>He: Discovery and Understanding by Douglas D. Osheroff</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(40).pdf" style="text-decoration:none;">From the Structure and Function of the Ribosome to New Antibiotics by Thomas A. Steitz</a></b></li>                              
