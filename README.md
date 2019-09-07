@@ -52,18 +52,18 @@
   <li><b><a target="_blank" href="img/ail(30).pdf" style="text-decoration:none;">Supramolecular Chemistry – Scope and Perspectives
 Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(30).rar" style="text-decoration:none;">Deep Learning </a></b></li> 
+   <li><b><a target="_blank" href="img/ail(31).pdf" style="text-decoration:none;">The Manipulation of Neutral Particles by Steven Chu</a></b></li> 
  
-   <li><b><a target="_blank" href="img/ail(29).pdf" style="text-decoration:none;">The Robot and I: How New Digital Technologies Are Making Smart People and Businesses Smarter by Automating Rote Work </a></b></li>
+   <li><b><a target="_blank" href="img/ail(32).pdf" style="text-decoration:none;">Telomeres and telomerase: the means to the end by EH Blackburn</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(31).pdf" style="text-decoration:none;">Artificial Intelligence And Life In 2030 </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(33).pdf" style="text-decoration:none;">The Photosynthetic Reaction Centre from the Purple Bacterium Rhodopseudomonas Viridis by Johann Deisenhofer and Hartmut Michel</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(32).pdf" style="text-decoration:none;">Research Priorities for Robust and Beneficial Artificial Intelligence </a></b></li> 
+  <li><b><a target="_blank" href="img/ail(34).pdf" style="text-decoration:none;">Nuclear Magnetic Resonance Fourier Transform Spectroscopy by Richard R. Ernst</a></b></li> 
  
   
-   <li><b><a target="_blank" href="img/ail(33).pdf" style="text-decoration:none;">Artificial Intelligence as a Positive and Negative Factor in Global Risk</a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(35).pdf" style="text-decoration:none;">"Synthetic Metals": A Novel Role for Organic Polymers by Alan MacDiarmid</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(34).pdf" style="text-decoration:none;">Artificial Intelligence, Robotics, Privacy and Data Protection </a></b></li> 
+  <li><b><a target="_blank" href="img/ail(36).pdf" style="text-decoration:none;">Turning Potential into Reality: The Invention of the Integrated Circuit by Jack Kilby</a></b></li> 
  
  
  
