@@ -41,15 +41,16 @@
  
    <li><b><a target="_blank" href="img/ail(25).pdf" style="text-decoration:none;">When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser by Wolfgang Ketterle</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(18).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Contemporary Knowledge Engineering and Cognition </a></b></li>
+  <li><b><a target="_blank" href="img/ail(26).pdf" style="text-decoration:none;">Experimental and Theoretical Nuclear Astrophysics; the Quest for the Origin of the Elements by William A. Fowler</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(25).pdf" style="text-decoration:none;">Artificial Intelligence (Künstliche Intelligenz) Lecture Notes </a></b></li>
+   <li><b><a target="_blank" href="img/ail(27).pdf" style="text-decoration:none;">Laser Cooling and Trapping of Neutral Atoms by William D. Phillips</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(26).pdf" style="text-decoration:none;">15-381: Artificial Intelligence - Introduction and Overview </a></b></li>
+   <li><b><a target="_blank" href="img/ail(28).pdf" style="text-decoration:none;">Symmetry, Space, Stars and C<sub>60</sub> by Sir Harold Kroto </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(27).pdf" style="text-decoration:none;">Python code for Artificial Intelligence: Foundations of Computational Agents </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(29).pdf" style="text-decoration:none;">Double Heterostructure Concept and its Applications in Physics, Electronics and Technology by Zhores Alferov </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(28).pdf" style="text-decoration:none;">Introduction to Computer Vision </a></b></li>
+  <li><b><a target="_blank" href="img/ail(30).pdf" style="text-decoration:none;">Supramolecular Chemistry – Scope and Perspectives
+Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></li>
  
    <li><b><a target="_blank" href="img/ail(30).rar" style="text-decoration:none;">Deep Learning </a></b></li> 
  
