@@ -329,15 +329,15 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(195).pdf" style="text-decoration:none;">Radioimmunoassay: A Probe for Fine Structure of Biological Systems by Rosalyn Yalow </a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(89).pdf" style="text-decoration:none;">Semiconducting and Metallic Polymers: The Fourth Generation of Polymeric Materials by Alan Heeger </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(196).pdf" style="text-decoration:none;">Constitution of Sterols and Their Connection with Other Substances Occurring in Nature by Adolf Windaus </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(90).pdf" style="text-decoration:none;">Experiments with High-Energy Neutrino Beams by Jack Steinberger </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(197).pdf" style="text-decoration:none;">The principles of conformational analysis by Derek Barton </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(91).pdf" style="text-decoration:none;">Magnetism and the Local Molecular Field by Louis Néel</a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(198).pdf" style="text-decoration:none;">Gene silencing by double-stranded RNA by Andrew Z. Fire</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(92).pdf" style="text-decoration:none;">Direct Methods and Anomalous Dispersion by Herbert A. Hauptman</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(199).pdf" style="text-decoration:none;">Wireless telegraphic communication by Guglielmo Marconi</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(93).pdf" style="text-decoration:none;">Nonlinear Optics and Spectroscopy by Nicolaas Bloembergen </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(200).pdf" style="text-decoration:none;">Restriction Endonucleases, Simian Virus 40, and the New Genetics by Daniel Nathans </a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(94).pdf" style="text-decoration:none;">Unraveling the Sense of Smell by Linda B. Buck</a></b></li>                              
 
