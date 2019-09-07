@@ -339,15 +339,15 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(200).pdf" style="text-decoration:none;">Restriction Endonucleases, Simian Virus 40, and the New Genetics by Daniel Nathans </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(94).pdf" style="text-decoration:none;">Unraveling the Sense of Smell by Linda B. Buck</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(201).pdf" style="text-decoration:none;">The neuron doctrine – theory and facts by Camillo Golgi</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(95).pdf" style="text-decoration:none;">Optical Methods for Studying Hertzian Resonances by Alfred Kastler</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(202).pdf" style="text-decoration:none;">The discovery of asymptotic freedom and the emergence of QCD by David J. Gross</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(96).pdf" style="text-decoration:none;">Elementary Modes of Excitation in the Nucleus by Ben R. Mottelson </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(203).pdf" style="text-decoration:none;">The path of carbon in photosynthesis by Melvin Calvin  </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(97).pdf" style="text-decoration:none;">The Shell Model by Maria Goeppert Mayer </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(204).pdf" style="text-decoration:none;">From the Big Bang to the Nobel Prize and Beyond by John C. Mather </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(98).pdf" style="text-decoration:none;">From Weak Interactions to Gravitation by Martinus J.G. Veltman </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(205).pdf" style="text-decoration:none;">Stochastic cooling and the accumulation of antiprotons by Simon van der Meer  </a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(99).pdf" style="text-decoration:none;">Scents and Sensibility: A Molecular Logic of Olfactory Perception by Richard Axel</a></b></li>
  
