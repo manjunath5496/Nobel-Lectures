@@ -1,10 +1,10 @@
 <ul>
 
                              
- <li><b><a target="_blank" href="img/ail(1).pdf" style="text-decoration:none;">Artificial Intelligence</a></b></li>
- <li><b><a target="_blank" href="img/ail(2).pdf" style="text-decoration:none;">CSC384: Introduction to Artificial Intelligence  </a></b></li>
-                                <li><b><a target="_blank" href="img/ail(3).pdf" style="text-decoration:none;">CptS 440 / 540 Artificial Intelligence: Introduction</a></b></li>
- <li><b><a target="_blank" href="img/ail(4).pdf" style="text-decoration:none;">CS3243 Foundations Of Artificial Intelligence</a></b></li>                              
+ <li><b><a target="_blank" href="img/ail(1).pdf" style="text-decoration:none;">Controlling Photons in a Box and Exploring the Quantum to Classical Boundary by Serge Haroche</a></b></li>
+ <li><b><a target="_blank" href="img/ail(2).pdf" style="text-decoration:none;">A Splendid Gift from the Earth: The Origins and Impact of the Avermectins by Satoshi Ōmura</a></b></li>
+<li><b><a target="_blank" href="img/ail(3).pdf" style="text-decoration:none;">A Brief History of G Protein Coupled Receptors by Robert J. Lefkowitz</a></b></li>
+ <li><b><a target="_blank" href="img/ail(4).pdf" style="text-decoration:none;">The BEH Mechanism and its Scalar Boson by François Englert</a></b></li>                              
 <li><b><a target="_blank" href="img/ail(5).pdf" style="text-decoration:none;">CMSC471/671 Artificial Intelligence</a></b></li>
 <li><b><a target="_blank" href="img/ail(6).pdf" style="text-decoration:none;">Introduction to Neural Networks and Deep Learning</a></b></li>
  
