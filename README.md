@@ -318,16 +318,16 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(185).pdf" style="text-decoration:none;"> Electron Spectroscopy for Atoms, Molecules and Condensed Matter by Kai M. Siegbahn</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(186).pdf" style="text-decoration:none;">X-ray analysis of haemoglobin by Max F. Perutz</a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(187).pdf" style="text-decoration:none;">Multimembered rings, higher terpene compounds and male sex hormones by Leopold Ruzicka </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(82).pdf" style="text-decoration:none;">A Confrontation with Infinity by Gerardus't Hooft</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(83).pdf" style="text-decoration:none;">Spatial Configuration of Macromolecular Chains by Paul J. Flory</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(84).pdf" style="text-decoration:none;">The Development of the Electron Microscope and of Electron Microscopy by Ernst Ruska</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(188).pdf" style="text-decoration:none;">Structure of the World Economy by Wassily Leontief </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(189).pdf" style="text-decoration:none;">CP Violation and Flavour Mixing by Makoto Kobayashi</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(190).pdf" style="text-decoration:none;">GFP: Lighting Up Life by M Chalfie</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(85).pdf" style="text-decoration:none;">Growth of GaN on Sapphire via Low-Temperature Deposited Buffer Layer and Realization of p-Type GaN by Mg Doping Followed by Low-Energy Electron Beam Irradiation by Hiroshi Amano</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(86).pdf" style="text-decoration:none;">The Electron-Scattering Method and Its Application to the Structure of Nuclei and Nucleons by Robert Hofstadter</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(191).pdf" style="text-decoration:none;">Spontaneous symmetry breaking in particle physics: A case of cross fertilization by Yoichiro Nambu </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(193).pdf" style="text-decoration:none;">Recovering Phase Information from Intensity Data by Jerome Karle</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(87).pdf" style="text-decoration:none;">Rotational Motion in Nuclei by Aage N. Bohr </a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(194).pdf" style="text-decoration:none;">The cosmic radiation by Cecil Powell </a></b></li>                              
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(88).pdf" style="text-decoration:none;">The Pomeranchuk Effect by Robert C. Richardson </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(195).pdf" style="text-decoration:none;">Radioimmunoassay: A Probe for Fine Structure of Biological Systems by Rosalyn Yalow </a></b></li>
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(89).pdf" style="text-decoration:none;">Semiconducting and Metallic Polymers: The Fourth Generation of Polymeric Materials by Alan Heeger </a></b></li>
 
