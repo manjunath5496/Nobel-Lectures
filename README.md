@@ -271,19 +271,19 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(160).pdf" style="text-decoration:none;">Perovskite‐Type Oxides—the New Approach to High‐T<sub>c</sub> Superconductivity by J. Georg Bednorz and K. Alex Müller</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(54).pdf" style="text-decoration:none;">Mechanically Interlocked Molecules (MIMs)—Molecular Shuttles, Switches, and Machines by J. Fraser Stoddart </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(161).pdf" style="text-decoration:none;">Chirality in Chemistry by Vladimir Prelog </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(55).pdf" style="text-decoration:none;">Spectroscopic Studies of Molecular Structure by Gerhard Herzberg</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(162).pdf" style="text-decoration:none;">Decoding the Language of the Bee by Karl von Frisch</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(56).pdf" style="text-decoration:none;">Sand from Centuries Past: Send Future Voices Fast by Charles K. Kao </a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(163).pdf" style="text-decoration:none;">Immeasurably fast reactions by Manfred Eigen </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(57).pdf" style="text-decoration:none;">Hibernating Bears, Antibiotics and the Evolving Ribosome by Ada E. Yonath </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(164).pdf" style="text-decoration:none;">Aspects of Hypothalamic Regulation of the Pituitary Gland with Major Emphasis on Its Implications for the Control of Reproductive Processes by Andrew V. Schally </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(58).pdf" style="text-decoration:none;">From Chemical Topology to Molecular Machines by Jean-Pierre Sauvage </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(165).pdf" style="text-decoration:none;">The evolution of the cyclotron by Ernest Lawrence</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(59).pdf" style="text-decoration:none;">Production of Coherent Radiation by Atoms and Molecules by Charles H. Townes</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(166).pdf" style="text-decoration:none;">Flash photolysis and some of its applications by George Porter</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(60).pdf" style="text-decoration:none;">The Biological Fixation of Nitrogen and the Preservation of Fodder in Agriculture, and Their Importance to Human Nutrition by Artturi Virtanen </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(167).pdf" style="text-decoration:none;">The molecular configuration of nucleic acids by Maurice Wilkins </a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(61).pdf" style="text-decoration:none;">Holography, 1948-1971 by Dennis Gabor</a></b></li>
  
