@@ -21,23 +21,25 @@
 
 
 
-<li><b><a target="_blank" href="img/ail(16).pdf" style="text-decoration:none;">Artificial Intelligence - IIT</a></b></li>
+<li><b><a target="_blank" href="img/ail(16).pdf" style="text-decoration:none;">Single-Molecule Spectroscopy, Imaging, and Photocontrol: Foundations for Super-Resolution Microscopy by W. E. (William E.) Moerner</a></b></li>
 
-  <li><b><a target="_blank" href="img/ail(17).pdf" style="text-decoration:none;">Statistical Machine Learning </a></b></li>                              
+  <li><b><a target="_blank" href="img/ail(17).pdf" style="text-decoration:none;">Single Molecules, Cells, and Super-Resolution Optics by Eric Betzig</a></b></li>   
+  
+<li><b><a target="_blank" href="img/ail(18).pdf" style="text-decoration:none;">The Molecular Machinery of Neurotransmitter Release by Thomas C. Südhof</a></b></li> 
 
-<li><b><a target="_blank" href="img/ail(19).pdf" style="text-decoration:none;">Lecture Notes in Machine Learning </a></b></li>
+<li><b><a target="_blank" href="img/ail(19).pdf" style="text-decoration:none;">Multiscale Modeling of Biological Functions: From Enzymes to Molecular Machines by Arieh Warshel </a></b></li>
  
-<li><b><a target="_blank" href="img/ail(20).pdf" style="text-decoration:none;">Introduction to AI and Intelligent Systems </a></b></li>
+<li><b><a target="_blank" href="img/ail(20).pdf" style="text-decoration:none;">The Structural Basis of G Protein Coupled Receptor Signaling by Brian Kobilka </a></b></li>
 
-<li><b><a target="_blank" href="img/ail(21).pdf" style="text-decoration:none;">Machine Learning by Andrew NG Lecture Notes </a></b></li>
+<li><b><a target="_blank" href="img/ail(21).pdf" style="text-decoration:none;">Nanoscopy with Focused Light by Stefan W. Hell</a></b></li>
  
-  <li><b><a target="_blank" href="img/ail(22).pdf" style="text-decoration:none;">Computing Machinery And Intelligence </a></b></li>                              
+  <li><b><a target="_blank" href="img/ail(22).pdf" style="text-decoration:none;">The Molecular Biology of Memory Storage: A Dialog between Genes and Synapses by Eric Kandel</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/ail(23).pdf" style="text-decoration:none;">Concise Machine Learning </a></b></li>
+  <li><b><a target="_blank" href="img/ail(23).pdf" style="text-decoration:none;">Discovery of Atmospheric Neutrino Oscillations by Takaaki Kajita </a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(24).pdf" style="text-decoration:none;">Artificial Intelligence - MIT </a></b></li>
+   <li><b><a target="_blank" href="img/ail(24).pdf" style="text-decoration:none;">The Winding Road to Pluripotency by Shinya Yamanaka</a></b></li>
  
-   <li><b><a target="_blank" href="img/ail(14).pdf" style="text-decoration:none;">Artificial Intelligence Lecture Notes </a></b></li>                              
+   <li><b><a target="_blank" href="img/ail(25).pdf" style="text-decoration:none;">When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser by Wolfgang Ketterle</a></b></li>                              
 
   <li><b><a target="_blank" href="img/ail(18).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Contemporary Knowledge Engineering and Cognition </a></b></li>
  
