@@ -67,7 +67,7 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(37).pdf" style="text-decoration:none;">Intracellular Aspects of the Process of Protein Secretion by George E. Palade</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(38).pdf" style="text-decoration:none;">The Fractional Quantum Hall Effect by Horst L. Störmer</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(39).pdf" style="text-decoration:none;">Superfluidity in <sup>3</sup>He: Discovery and Understandning by Douglas D. Osheroff</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(39).pdf" style="text-decoration:none;">Superfluidity in <sup>3</sup>He: Discovery and Understanding by Douglas D. Osheroff</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(40).pdf" style="text-decoration:none;">From the Structure and Function of the Ribosome to New Antibiotics by Thomas A. Steitz</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(41).pdf" style="text-decoration:none;">Fascinated Journeys into Blue Light by Isamu Akasaki</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(42).pdf" style="text-decoration:none;">Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments by Carl Wieman</a></b></li>
@@ -250,10 +250,10 @@ Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></l
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(144).pdf" style="text-decoration:none;">Cloud Chamber Researches in Nuclear Physics and Cosmic Radiation by Patrick M.S. Blackett</a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(38).pdf" style="text-decoration:none;">The Fractional Quantum Hall Effect by Horst L. Störmer</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(39).pdf" style="text-decoration:none;">Superfluidity in <sup>3</sup>He: Discovery and Understandning by Douglas D. Osheroff</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(40).pdf" style="text-decoration:none;">From the Structure and Function of the Ribosome to New Antibiotics by Thomas A. Steitz</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(41).pdf" style="text-decoration:none;">Fascinated Journeys into Blue Light by Isamu Akasaki</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(145).pdf" style="text-decoration:none;">From Macromolecules to Biological Assemblies by Aaron Klug</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(146).pdf" style="text-decoration:none;">Investigations into the properties of substances at low temperatures, which have led, amongst other things, to the preparation of liquid helium by Heike Kamerlingh Onnes</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(147).pdf" style="text-decoration:none;">Myoglobin and the structure of proteins by John C. Kendrew</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(148).pdf" style="text-decoration:none;">Slow neutron spectroscopy and the grand atlas of the physical world by Bertram N. Brockhouse</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(42).pdf" style="text-decoration:none;">Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments by Carl Wieman</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(43).pdf" style="text-decoration:none;">The Extraordinary Phases of Liquid <sup>3</sup>He by David M. Lee </a></b></li>
