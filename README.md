@@ -809,3 +809,39 @@ and their breakdown products by Arne Tiselius</a></b></li>
   </ul>
   </br>
 <h2> Lectures: </h2>
+
+<ul>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(1).pdf" style="text-decoration:none;">Lectures on Jurisprudence</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(2).pdf" style="text-decoration:none;">Lectures on Political Economy  </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(3).pdf" style="text-decoration:none;">Lectures on Applied Mathematics - Part 2: Numerical Analysis </a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(4).pdf" style="text-decoration:none;">Lectures on Homoeopathic Materia Medica</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(5).pdf" style="text-decoration:none;">Lectures from Colombo to Almora (1897)  </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(7).pdf" style="text-decoration:none;">Nobel Lectures in Physics 1942 – 1962 </a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(8).pdf" style="text-decoration:none;">Lectures on Tropical Meteorology</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(9).pdf" style="text-decoration:none;">Complete Works of Pir-O-Murshid Hazrat Inayat Khan: Lectures on Sufism 1924 II: June 10-end of December </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(10).pdf" style="text-decoration:none;">Twelve Lectures on Structural Dynamics </a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(11).pdf" style="text-decoration:none;">Lectures on Dynamic Meteorology</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(12).pdf" style="text-decoration:none;">Lectures on Set Theory  </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(13).pdf" style="text-decoration:none;">Twenty Lectures on Algorithmic Game Theory </a></b></li>   
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</ul>
