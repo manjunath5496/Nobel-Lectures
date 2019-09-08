@@ -880,4 +880,21 @@ and their breakdown products by Arne Tiselius</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(37).pdf" style="text-decoration:none;"> Kant's lectures on metaphysics  </a></b></li>   
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(38).pdf" style="text-decoration:none;"> Typography Lectures   </a></b></li>  
   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(39).pdf" style="text-decoration:none;"> The Feynman Lectures on Physics  </a></b></li>   
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(40).rar" style="text-decoration:none;"> Lectures on Macroeconomics   </a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(41).pdf" style="text-decoration:none;"> Lectures on Stochastic Flows And Applications  </a></b></li>  
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(42).pdf" style="text-decoration:none;"> Lectures on Negative Dialectics </a></b></li>   
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(43).pdf" style="text-decoration:none;"> Lectures on Gas Chromatography 1966  </a></b></li>  
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(44).pdf" style="text-decoration:none;"> Advanced Lectures on Machine Learning </a></b></li>    
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(6).pdf" style="text-decoration:none;"> David Hilbert's Lectures on the Foundations of Physics 1915–1927  </a></b></li>  
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(31).pdf" style="text-decoration:none;"> Lectures in Meteorology </a></b></li>      
+  
+  
+  
 </ul>
