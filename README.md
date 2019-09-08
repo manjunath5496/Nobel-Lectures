@@ -735,15 +735,15 @@ and their breakdown products by Arne Tiselius</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(424).pdf" style="text-decoration:none;">On plant pigments by Richard Willstätter</a></b></li> 
  
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(1).pdf" style="text-decoration:none;">Controlling Photons in a Box and Exploring the Quantum to Classical Boundary by Serge Haroche</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(2).pdf" style="text-decoration:none;">A Splendid Gift from the Earth: The Origins and Impact of the Avermectins by Satoshi Ōmura</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(3).pdf" style="text-decoration:none;">A Brief History of G Protein Coupled Receptors by Robert J. Lefkowitz</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(4).pdf" style="text-decoration:none;">The BEH Mechanism and its Scalar Boson by François Englert</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(5).pdf" style="text-decoration:none;">The Egg and the Nucleus: A Battle for Supremacy by Sir John B. Gurdon</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(6).pdf" style="text-decoration:none;">Development of Multiscale Models for Complex Chemical Systems From H+H<sub>2</sub> to Biomolecules by Martin Karplus</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(425).pdf" style="text-decoration:none;">Energy conversions in muscle by Otto Fritz Meyerhof </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(426).pdf" style="text-decoration:none;">Phage, colicins and macroregulatory phenomena by Salvador E. Luria </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(427).pdf" style="text-decoration:none;">On individual differences in human blood by Karl Landsteiner</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(428).pdf" style="text-decoration:none;">The Origin of Elements by Arno Penzias </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(429).pdf" style="text-decoration:none;">Idiosyncrasies of DNA structure by Alfred D. Hershey</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(430).pdf" style="text-decoration:none;">Modern structural chemistry by Linus Pauling</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(7).pdf" style="text-decoration:none;">Procuring Universal Service: Putting Auction Theory to Work</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(8).pdf" style="text-decoration:none;">Femtochemistry: Atomic-Scale Dynamics of the Chemical Bond Using Ultrafast Lasers by Ahmed Zewail</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(431).pdf" style="text-decoration:none;">The development of quantum mechanics by Werner Heisenberg</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(432).pdf" style="text-decoration:none;">Studies in chemical thermodynamics by Walther Nernst</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(9).pdf" style="text-decoration:none;">Ralph Steinman and the Discovery of Dendritic Cells by Ralph M. Steinman</a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(10).pdf" style="text-decoration:none;">Spatial Cells in the Hippocampal Formation by John O'Keefe </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(11).pdf" style="text-decoration:none;">Grid Cells, Place Cells and Memory by May-Britt Moser</a></b></li>
