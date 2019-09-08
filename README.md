@@ -755,19 +755,19 @@ and their breakdown products by Arne Tiselius</a></b></li>
 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(16).pdf" style="text-decoration:none;">Single-Molecule Spectroscopy, Imaging, and Photocontrol: Foundations for Super-Resolution Microscopy by W. E. (William E.) Moerner</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(441).pdf" style="text-decoration:none;">On the constitution and configuration of higher-order compounds by Alfred Werner </a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(17).pdf" style="text-decoration:none;">Single Molecules, Cells, and Super-Resolution Optics by Eric Betzig</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(442).pdf" style="text-decoration:none;">Theory of electrons and positrons by Paul A.M. Dirac</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(18).pdf" style="text-decoration:none;">The Molecular Machinery of Neurotransmitter Release by Thomas C. Südhof</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(443).pdf" style="text-decoration:none;">The relation of genetics to physiology and medicine by Thomas H. Morgan </a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(19).pdf" style="text-decoration:none;">Multiscale Modeling of Biological Functions: From Enzymes to Molecular Machines by Arieh Warshel </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(444).pdf" style="text-decoration:none;">Methods to determine the electrical and geometrical structure of molecules by Peter Debye </a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(20).pdf" style="text-decoration:none;">The Structural Basis of G Protein Coupled Receptor Signaling by Brian Kobilka </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(445).pdf" style="text-decoration:none;">Chemical evidence of the transmutation of elements by Frédéric Joliot </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(21).pdf" style="text-decoration:none;">Nanoscopy with Focused Light by Stefan W. Hell</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(446).pdf" style="text-decoration:none;">Genes and chemical reactions in Neurospora by George Beadle</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(22).pdf" style="text-decoration:none;">The Molecular Biology of Memory Storage: A Dialog between Genes and Synapses by Eric Kandel</a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(447).pdf" style="text-decoration:none;">Partial cell functions by Paul Ehrlich </a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(23).pdf" style="text-decoration:none;">Discovery of Atmospheric Neutrino Oscillations by Takaaki Kajita </a></b></li>
  
