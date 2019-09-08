@@ -835,7 +835,29 @@ and their breakdown products by Arne Tiselius</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(13).pdf" style="text-decoration:none;">Twenty Lectures on Algorithmic Game Theory </a></b></li>   
     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(14).pdf" style="text-decoration:none;">Feynman Lectures on Computation</a></b></li>
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(15).pdf" style="text-decoration:none;">The Tanner Lectures on Human Values  </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(16).pdf" style="text-decoration:none;">Lectures on Abstract Algebra</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(17).pdf" style="text-decoration:none;">Lectures on Systematic Theology</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(18).pdf" style="text-decoration:none;">Between Kant and Hegel: Lectures on German Idealism   </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(19).pdf" style="text-decoration:none;">Lectures on the Differential Geometry of Curves and Surfaces </a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(20).pdf" style="text-decoration:none;">Vedanta Philosophy: Eight Lectures</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(21).pdf" style="text-decoration:none;">The Last Lecture </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(22).pdf" style="text-decoration:none;">Lectures on Geometrical Optics </a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(23).pdf" style="text-decoration:none;">Lectures - Stephen Hawking</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(24).pdf" style="text-decoration:none;">Lectures - Dr. Michio Kaku   </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(25).pdf" style="text-decoration:none;">Eight Lectures on Theoretical Physics </a></b></li>  
   
   
   
