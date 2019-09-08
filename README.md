@@ -551,18 +551,18 @@ and their breakdown products by Arne Tiselius</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(318).pdf" style="text-decoration:none;">Superfluid 3-He: The Early Days as Seen by a Theorist by Anthony J. Leggett</a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(319).pdf" style="text-decoration:none;">On Superconductivity and Superfluidity by Vitaly L. Ginzburg</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(320).pdf" style="text-decoration:none;">The Role of Frontier Orbitals in Chemical Reactions by Kenichi Fukui</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(108).pdf" style="text-decoration:none;">The Discovery of the Binary Pulsar by Russell A. Hulse</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(321).pdf" style="text-decoration:none;">CP Symmetry Violation – The Search for Its Origin by James Cronin</a></b></li>
 
 
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(109).pdf" style="text-decoration:none;">CCD – an Extension of Man's Vision by Willard S. Boyle</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(110).pdf" style="text-decoration:none;">Exclusion Principle and Quantum Mechanics by Wolfgang Pauli</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(111).pdf" style="text-decoration:none;">Events, laws of nature, and invariance principles by Eugene Wigner</a></b></li> 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(112).pdf" style="text-decoration:none;">Relativistic Quantum Field Theory by Julian Schwinger</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(113).pdf" style="text-decoration:none;">Investigations on Spiroptera carcinoma and the experimental induction of cancer by Johannes Fibiger </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(322).pdf" style="text-decoration:none;">The molecular basis of visual excitation by George Wald</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(323).pdf" style="text-decoration:none;">Olefin Metathesis: The Early Days by Yves Chauvin</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(324).pdf" style="text-decoration:none;">The involvement of RNA in the synthesis of proteins by James Watson</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(325).pdf" style="text-decoration:none;">Cell-free fermentation by Eduard Buchner</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(326).pdf" style="text-decoration:none;">The cultivation of the poliomyelitis viruses in tissue culture by John F. Enders, Frederick S. Robbins, Thomas H. Weller</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(114).pdf" style="text-decoration:none;">Computed medical imaging by GN Hounsfield</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(329).pdf" style="text-decoration:none;">Synthetic DNA and Biology by Michael Smith</a></b></li> 
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(115).pdf" style="text-decoration:none;"> David Keilin's Respiratory Chain Concept and Its Chemiosmotic Consequences by Peter Mitchell </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(116).pdf" style="text-decoration:none;">Searching for new reactivity by K. Barry Sharpless</a></b></li>
