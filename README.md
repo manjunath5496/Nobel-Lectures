@@ -871,9 +871,13 @@ and their breakdown products by Arne Tiselius</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(32).pdf" style="text-decoration:none;">The Edinburgh Lectures on Mental Science </a></b></li>   
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(33).pdf" style="text-decoration:none;"> Reading and Writing: The Tanner Lectures on Human Values  </a></b></li>                               
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(34).pdf" style="text-decoration:none;">Griliches Lectures, Kyoto, August 2016 - Lecture 2: Econometric Tools for Analyzing Moment Inequalities.  </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(36).rar" style="text-decoration:none;">Feynman's Hughes Lectures: astronomy, astrophysics and cosmology </a></b></li>   
   
-  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(37).pdf" style="text-decoration:none;"> Kant's lectures on metaphysics  </a></b></li>   
   
   
 </ul>
