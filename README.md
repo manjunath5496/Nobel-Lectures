@@ -509,21 +509,21 @@ and their breakdown products by Arne Tiselius</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(297).pdf" style="text-decoration:none;">The Logic of Chemical Synthesis: Multistep Synthesis of Complex Carbogenic Molecules by Elias James Corey</a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(298).pdf" style="text-decoration:none;">The Generative Grammar of the Immune System by Niels K. Jerne </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(86).pdf" style="text-decoration:none;">The Electron-Scattering Method and Its Application to the Structure of Nuclei and Nucleons by Robert Hofstadter</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(299).pdf" style="text-decoration:none;">Soft Matter by Pierre-Gilles de Gennes</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(87).pdf" style="text-decoration:none;">Rotational Motion in Nuclei by Aage N. Bohr </a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(300).pdf" style="text-decoration:none;">Macromolecular chemistry by Hermann Staudinger </a></b></li>                              
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(88).pdf" style="text-decoration:none;">The Pomeranchuk Effect by Robert C. Richardson </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(301).pdf" style="text-decoration:none;">Electrospray Wings for Molecular Elephants by John B. Fenn</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(89).pdf" style="text-decoration:none;">Semiconducting and Metallic Polymers: The Fourth Generation of Polymeric Materials by Alan Heeger </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(302).pdf" style="text-decoration:none;">Discovery of Green Fluorescent Protein, GFP by Osamu Shimomura </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(90).pdf" style="text-decoration:none;">Experiments with High-Energy Neutrino Beams by Jack Steinberger </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(303).pdf" style="text-decoration:none;">Studies on the Principles that Govern the Folding of Protein Chains by Christian Anfinsen </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(91).pdf" style="text-decoration:none;">Magnetism and the Local Molecular Field by Louis Néel</a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(304).pdf" style="text-decoration:none;">Applications of partition chromatography by Richard LM Synge</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(92).pdf" style="text-decoration:none;">Direct Methods and Anomalous Dispersion by Herbert A. Hauptman</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(305).pdf" style="text-decoration:none;">From studies of biochemical mechanism to novel biological mediators: prostaglandin endoperoxides, thromboxanes, and leukotrienes by B Samuelsson</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(93).pdf" style="text-decoration:none;">Nonlinear Optics and Spectroscopy by Nicolaas Bloembergen </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(306).pdf" style="text-decoration:none;">Experiments with an Isolated Subatomic Particle at Rest by Hans G. Dehmelt </a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(94).pdf" style="text-decoration:none;">Unraveling the Sense of Smell by Linda B. Buck</a></b></li>                              
 
