@@ -623,18 +623,18 @@ and their breakdown products by Arne Tiselius</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(358).pdf" style="text-decoration:none;">Two decades of research on the biosynthesis of saccharides by Luis Leloir</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(359).pdf" style="text-decoration:none;">Some observations on the responses of single nerve fibers by Joseph Erlanger</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(360).pdf" style="text-decoration:none;">The ionic basis of nervous conduction by Alan Hodgkin</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(148).pdf" style="text-decoration:none;">Slow neutron spectroscopy and the grand atlas of the physical world by Bertram N. Brockhouse</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(149).pdf" style="text-decoration:none;">The Structure and Connexions of Neurons by Santiago Ramón y Cajal</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(361).pdf" style="text-decoration:none;">Passion for Precision by Theodor W. Hänsch</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(362).pdf" style="text-decoration:none;">Semiconductor lasers by Nicolay G. Basov</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(150).pdf" style="text-decoration:none;">Early two-dimensional reconstruction and recent topics stemming from it by Allan M. Cormack  </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(151).pdf" style="text-decoration:none;">My Path to the Accelerating Universe by Adam G. Riess</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(152).pdf" style="text-decoration:none;">Interplay of Disorder and Interaction in Two-Dimensional Electron Gas in Intense Magnetic Fields by Daniel C. Tsui</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(153).pdf" style="text-decoration:none;"> Quantum Chemical Models by John Pople</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(154).pdf" style="text-decoration:none;">Consequences and development of an invention by Karl Ziegler</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(155).pdf" style="text-decoration:none;">Life Cycle, Individual Thrift and the Wealth of Nations by Franco Modigliani</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(156).pdf" style="text-decoration:none;">Molecular Beam Studies of Elementary Chemical Processes by Yuan Tseh Lee</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(363).pdf" style="text-decoration:none;">The Discovery of Charge – Conjugation Parity Asymmetry by Val Fitch  </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(364).pdf" style="text-decoration:none;">Plasma and the Controlled Thermonuclear Reaction by Pyotr Kapitsa</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(365).pdf" style="text-decoration:none;">The chemical nature of enzymes by James B. Sumner</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(366).pdf" style="text-decoration:none;"> The Dilemma of Attribution by H. David Politzer</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(367).pdf" style="text-decoration:none;">Ubiquitin at Fox Chase by Irwin Rose</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(368).pdf" style="text-decoration:none;">The Process and Progress of Economics by George J. Stigler</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(369).pdf" style="text-decoration:none;">From the natural transmutations of uranium to its artificial fission by Otto Hahn</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(157).pdf" style="text-decoration:none;">The discovery of polyacetylene film—the dawning of an era of conducting polymers by Hideki Shirakawa</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(370).pdf" style="text-decoration:none;">Conceptual Foundations of the Unified Theory of Weak and Electromagnetic Interactions by Steven Weinberg</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(158).pdf" style="text-decoration:none;">Ethology and Stress Diseases by Nikolaas Tinbergen</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(159).pdf" style="text-decoration:none;">Further progress in chemotherapy of bacterial infections by Gerhard Domagk</a></b></li>                              
