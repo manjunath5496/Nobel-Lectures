@@ -643,25 +643,25 @@ and their breakdown products by Arne Tiselius</a></b></li>
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(374).pdf" style="text-decoration:none;">Control of the pulmonary circulation in man with some remarks on methodology by André F. Cournand </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(162).pdf" style="text-decoration:none;">Decoding the Language of the Bee by Karl von Frisch</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(375).pdf" style="text-decoration:none;">Research in nuclear magnetism by E. M. Purcell</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(163).pdf" style="text-decoration:none;">Immeasurably fast reactions by Manfred Eigen </a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(376).pdf" style="text-decoration:none;">A trail of sulfa research: from insulin to oxytocin by Vincent Vigneaud </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(164).pdf" style="text-decoration:none;">Aspects of Hypothalamic Regulation of the Pituitary Gland with Major Emphasis on Its Implications for the Control of Reproductive Processes by Andrew V. Schally </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(377).pdf" style="text-decoration:none;">Structural aspects of interatomic charge-transfer bonding by O. Hassel  </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(165).pdf" style="text-decoration:none;">The evolution of the cyclotron by Ernest Lawrence</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(378).pdf" style="text-decoration:none;">The wave nature of the electron by Louis de Broglie</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(166).pdf" style="text-decoration:none;">Flash photolysis and some of its applications by George Porter</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(379).pdf" style="text-decoration:none;">Mammalian nerve fibers by Herbert S. Gasser </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(167).pdf" style="text-decoration:none;">The molecular configuration of nucleic acids by Maurice Wilkins </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(380).pdf" style="text-decoration:none;">The Long Search for Stable Transition Metal Alkyls by Geoffrey Wilkinson </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(168).pdf" style="text-decoration:none;">Antibody Structure and Molecular Immunology by Gerald M. Edelman</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(381).pdf" style="text-decoration:none;">The reversibility of certain rheumatic and non-rheumatic conditions by the use of cortisone or of the pituitary adrenocorticotropic hormone by Philip S. Hench </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(169).pdf" style="text-decoration:none;">Yeast and cancer by Leland H. Hartwell </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(382).pdf" style="text-decoration:none;">Type-II superconductors and the vortex lattice by Alexei Abrikosov </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(170).pdf" style="text-decoration:none;">DNA sequencing and gene structure by Walter Gilbert</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(383).pdf" style="text-decoration:none;">Dichloro-diphenyl-trichloroethane and newer insecticides by Paul Müller </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(171).pdf" style="text-decoration:none;">Random Walk to Graphene by Andre Geim</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(384).pdf" style="text-decoration:none;">Concerning the detection of X-ray interferences by Max von Laue</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(172).pdf" style="text-decoration:none;">A structural basis of light energy and electron transfer in biology by Robert Huber </a></b></li> 
  
