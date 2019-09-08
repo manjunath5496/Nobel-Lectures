@@ -795,7 +795,17 @@ and their breakdown products by Arne Tiselius</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(192).pdf" style="text-decoration:none;">Derivatives in a Dynamic Environment by MS Scholes </a></b></li>  
   
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(247).pdf" style="text-decoration:none;">The principle of nuclear induction by Felix Bloch</a></b></li>
+ 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(294).pdf" style="text-decoration:none;">Electrical oscillations and wireless telegraphy by Karl Ferdinand Braun </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(131).pdf" style="text-decoration:none;">Cell Mediated Immunity in Virus Infections by Peter C. Doherty</a></b></li>
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(133).pdf" style="text-decoration:none;">A Receptor‐Mediated Pathway for Cholesterol Homeostasis by Brown MS and Goldstein JL </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(192).pdf" style="text-decoration:none;">Derivatives in a Dynamic Environment by MS Scholes </a></b></li>  
+   
   
   
   
