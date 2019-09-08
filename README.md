@@ -685,9 +685,9 @@ and their breakdown products by Arne Tiselius</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(396).pdf" style="text-decoration:none;">The magnetic moment of the electron by Polykarp Kusch</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(397).pdf" style="text-decoration:none;">The equation of state for gases and liquids by Johannes Diderik van der Waals </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(185).pdf" style="text-decoration:none;"> Electron Spectroscopy for Atoms, Molecules and Condensed Matter by Kai M. Siegbahn</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(186).pdf" style="text-decoration:none;">X-ray analysis of haemoglobin by Max F. Perutz</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(187).pdf" style="text-decoration:none;">Multimembered rings, higher terpene compounds and male sex hormones by Leopold Ruzicka </a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(398).pdf" style="text-decoration:none;"> Hemoglobin regeneration as influenced by diet and other factors by George H. Whipple</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(399).pdf" style="text-decoration:none;">Energy production in stars by Hans Bethe</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(400).pdf" style="text-decoration:none;">The development of partition chromatography by Archer Martin </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(188).pdf" style="text-decoration:none;">Structure of the World Economy by Wassily Leontief </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(189).pdf" style="text-decoration:none;">CP Violation and Flavour Mixing by Makoto Kobayashi</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(190).pdf" style="text-decoration:none;">GFP: Lighting Up Life by M Chalfie</a></b></li>
