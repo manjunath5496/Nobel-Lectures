@@ -705,25 +705,25 @@ and their breakdown products by Arne Tiselius</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(410).pdf" style="text-decoration:none;">Macroscopic quantum phenomena from pairing in superconductors by JR Schrieffer</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(199).pdf" style="text-decoration:none;">Wireless telegraphic communication by Guglielmo Marconi</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(411).pdf" style="text-decoration:none;">Immunological recognition of self by Sir Frank MacFarlane Burnet </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(200).pdf" style="text-decoration:none;">Restriction Endonucleases, Simian Virus 40, and the New Genetics by Daniel Nathans </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(412).pdf" style="text-decoration:none;">Some problems relating to chain reactions and to the theory of combustion by Nikolay Semenov  </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(201).pdf" style="text-decoration:none;">The neuron doctrine – theory and facts by Camillo Golgi</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(413).pdf" style="text-decoration:none;">Development of the theory of electrolytic dissociation by Svante Arrhenius</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(202).pdf" style="text-decoration:none;">The discovery of asymptotic freedom and the emergence of QCD by David J. Gross</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(414).pdf" style="text-decoration:none;">The fundamental idea of wave mechanics by Erwin Schrödinger</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(203).pdf" style="text-decoration:none;">The path of carbon in photosynthesis by Melvin Calvin  </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(415).pdf" style="text-decoration:none;">The use of organomagnesium compounds in preparative organic chemistry by Victor Grignard </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(204).pdf" style="text-decoration:none;">From the Big Bang to the Nobel Prize and Beyond by John C. Mather </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(416).pdf" style="text-decoration:none;">How I found the mechanism of intracapsular accommodation by Allvar Gullstrand </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(205).pdf" style="text-decoration:none;">Stochastic cooling and the accumulation of antiprotons by Simon van der Meer  </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(417).pdf" style="text-decoration:none;">The synthesis of ammonia from its elements by Fritz Haber  </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(206).pdf" style="text-decoration:none;">Multiple Metal–Carbon Bonds for Catalytic Metathesis Reactions by Richard R. Schrock</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(418).pdf" style="text-decoration:none;">Oxidation, energy transfer, and vitamins by Albert Szent-Györgyi </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(207).pdf" style="text-decoration:none;">The Design of Molecular Hosts, Guests, and Their Complexes by Donald J. Cram </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(419).pdf" style="text-decoration:none;">All Science is Interdisciplinary - from Magnetic Moments to Molecules to Men by Paul C. Lauterbur </a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(208).pdf" style="text-decoration:none;">The Prostaglandins: From the Laboratory to the Clinic by Sune K. Bergström  </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(420).pdf" style="text-decoration:none;">The transuranium elements: early history by Edwin McMillan </a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(209).pdf" style="text-decoration:none;">F. Sherwood Rowland: Nobel Lecture in Chemistry December 8, 1995</a></b></li>                              
 
