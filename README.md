@@ -485,22 +485,22 @@ and their breakdown products by Arne Tiselius</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(280).pdf" style="text-decoration:none;">Transistor technology evokes new physics by William B. Shockley</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(68).pdf" style="text-decoration:none;">The Role of MHC Gene Products in Immune Regulation and Its Relevance to Alloreactivity by Baruj Benacerraf</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(281).pdf" style="text-decoration:none;">Background for the Spheroidal Nuclear Model Proposal by James Rainwater</a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(69).pdf" style="text-decoration:none;">Discovering the Fullerenes by Richard E. Smalley</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(282).pdf" style="text-decoration:none;">Electromagnetic Traps for Charged and Neutral Particles by Wolfgang Paul</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(70).pdf" style="text-decoration:none;">Unraveling the Structure of the Ribosome by Venkatraman Ramakrishnan </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(283).pdf" style="text-decoration:none;">Visual receptors and retinal interaction by Haldan Keffer Hartline </a></b></li> 
   
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(71).pdf" style="text-decoration:none;">Background Story of the Invention of Efficient Blue InGaN Light Emitting Diodes by Shuji Nakamura</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(73).pdf" style="text-decoration:none;">Solid Phase Synthesis by Bruce Merrifield  </a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(74).pdf" style="text-decoration:none;">The Possibility of Social Choice by Amartya Sen</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(75).pdf" style="text-decoration:none;">The Host Defense of Insects: A Paradigm for Innate Immunity by Jules A. Hoffmann</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(76).pdf" style="text-decoration:none;">Electronic Structure of Matter – Wave Functions and Density Functionals by Walter Kohn</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(77).pdf" style="text-decoration:none;">The Path to Measuring an Accelerating Universe by Brian P. Schmidt</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(284).pdf" style="text-decoration:none;">Nobel Lecture by Kazuo Ishiguro</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(285).pdf" style="text-decoration:none;">Electron Tunneling and Superconductivity by Ivar Giaever  </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(286).pdf" style="text-decoration:none;">The preparation of pure enzymes and virus proteins by John H. Northrop</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(287).pdf" style="text-decoration:none;">Helicobacter Connections by Barry J. Marshall</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(288).pdf" style="text-decoration:none;">Recent advances in the chemistry of natural products by Robert B. Woodward</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(289).pdf" style="text-decoration:none;">Some applications of isotopic indicators by George de Hevesy</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(78).pdf" style="text-decoration:none;">Evolution of Ideas on the Primary Visual Cortex, 1955-1978: A Biased Historical Account by David H. Hubel </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(290).pdf" style="text-decoration:none;">Snapshot magnetic resonance imaging by Peter Mansfield </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(79).pdf" style="text-decoration:none;">Deep Inelastic Scattering: Comparisons with the Quark Model by Jerome I. Friedman</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(80).pdf" style="text-decoration:none;">The Quantized Hall Effect by Klaus von Klitzing</a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(81).pdf" style="text-decoration:none;">Fractional Quantization by Robert B. Laughlin </a></b></li>                              
