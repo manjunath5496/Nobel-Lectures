@@ -735,6 +735,59 @@ and their breakdown products by Arne Tiselius</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(424).pdf" style="text-decoration:none;">On plant pigments by Richard Willstätter</a></b></li> 
  
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(1).pdf" style="text-decoration:none;">Controlling Photons in a Box and Exploring the Quantum to Classical Boundary by Serge Haroche</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(2).pdf" style="text-decoration:none;">A Splendid Gift from the Earth: The Origins and Impact of the Avermectins by Satoshi Ōmura</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(3).pdf" style="text-decoration:none;">A Brief History of G Protein Coupled Receptors by Robert J. Lefkowitz</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(4).pdf" style="text-decoration:none;">The BEH Mechanism and its Scalar Boson by François Englert</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(5).pdf" style="text-decoration:none;">The Egg and the Nucleus: A Battle for Supremacy by Sir John B. Gurdon</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(6).pdf" style="text-decoration:none;">Development of Multiscale Models for Complex Chemical Systems From H+H<sub>2</sub> to Biomolecules by Martin Karplus</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(7).pdf" style="text-decoration:none;">Procuring Universal Service: Putting Auction Theory to Work</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(8).pdf" style="text-decoration:none;">Femtochemistry: Atomic-Scale Dynamics of the Chemical Bond Using Ultrafast Lasers by Ahmed Zewail</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(9).pdf" style="text-decoration:none;">Ralph Steinman and the Discovery of Dendritic Cells by Ralph M. Steinman</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(10).pdf" style="text-decoration:none;">Spatial Cells in the Hippocampal Formation by John O'Keefe </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(11).pdf" style="text-decoration:none;">Grid Cells, Place Cells and Memory by May-Britt Moser</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(12).pdf" style="text-decoration:none;">Mechanisms in E. coli and Human Mismatch Repair by Paul Modrich</a></b></li>
+               <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(13).pdf" style="text-decoration:none;">Measuring the Acceleration of the Cosmic Expansion Using Supernovae by Saul Perlmutter</a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(14).pdf" style="text-decoration:none;">Grid Cells and the Entorhinal Map of Space by Edvard I. Moser</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(15).pdf" style="text-decoration:none;">The Theory and Practice of Market Design by Alvin E. Roth</a></b></li>
+
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(16).pdf" style="text-decoration:none;">Single-Molecule Spectroscopy, Imaging, and Photocontrol: Foundations for Super-Resolution Microscopy by W. E. (William E.) Moerner</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(17).pdf" style="text-decoration:none;">Single Molecules, Cells, and Super-Resolution Optics by Eric Betzig</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(18).pdf" style="text-decoration:none;">The Molecular Machinery of Neurotransmitter Release by Thomas C. Südhof</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(19).pdf" style="text-decoration:none;">Multiscale Modeling of Biological Functions: From Enzymes to Molecular Machines by Arieh Warshel </a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(20).pdf" style="text-decoration:none;">The Structural Basis of G Protein Coupled Receptor Signaling by Brian Kobilka </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(21).pdf" style="text-decoration:none;">Nanoscopy with Focused Light by Stefan W. Hell</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(22).pdf" style="text-decoration:none;">The Molecular Biology of Memory Storage: A Dialog between Genes and Synapses by Eric Kandel</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(23).pdf" style="text-decoration:none;">Discovery of Atmospheric Neutrino Oscillations by Takaaki Kajita </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(24).pdf" style="text-decoration:none;">The Winding Road to Pluripotency by Shinya Yamanaka</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(25).pdf" style="text-decoration:none;">When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser by Wolfgang Ketterle</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(26).pdf" style="text-decoration:none;">Experimental and Theoretical Nuclear Astrophysics; the Quest for the Origin of the Elements by William A. Fowler</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(27).pdf" style="text-decoration:none;">Laser Cooling and Trapping of Neutral Atoms by William D. Phillips</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(28).pdf" style="text-decoration:none;">Symmetry, Space, Stars and C<sub>60</sub> by Sir Harold Kroto </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(29).pdf" style="text-decoration:none;">Double Heterostructure Concept and its Applications in Physics, Electronics and Technology by Zhores Alferov </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(30).pdf" style="text-decoration:none;">Supramolecular Chemistry – Scope and Perspectives
+Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(31).pdf" style="text-decoration:none;">The Manipulation of Neutral Particles by Steven Chu</a></b></li> 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(32).pdf" style="text-decoration:none;">Telomeres and telomerase: the means to the end by EH Blackburn</a></b></li> 
  
   </ul>
