@@ -564,25 +564,25 @@ and their breakdown products by Arne Tiselius</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(329).pdf" style="text-decoration:none;">Synthetic DNA and Biology by Michael Smith</a></b></li> 
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(115).pdf" style="text-decoration:none;"> David Keilin's Respiratory Chain Concept and Its Chemiosmotic Consequences by Peter Mitchell </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(116).pdf" style="text-decoration:none;">Searching for new reactivity by K. Barry Sharpless</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(117).pdf" style="text-decoration:none;">Discovery of Some of the Biological Effects of Nitric Oxide and Its Role in Cell Signaling by Ferid Murad</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(118).pdf" style="text-decoration:none;">Gauge Unification of Fundamental Forces by Abdus Salam</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(330).pdf" style="text-decoration:none;"> Recoilless nuclear resonance absorption of gamma radiation by Rudolf Mössbauer </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(331).pdf" style="text-decoration:none;">Viruses, Polymerases and Cancer by David Baltimore</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(332).pdf" style="text-decoration:none;">On Cathode Rays by Philipp Lenard</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(333).pdf" style="text-decoration:none;">Carotenoids, flavins and vitamin A and B<sub>2</sub> by Paul Karrer </a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(119).pdf" style="text-decoration:none;">General Characteristics of Radiation Emitted by Systems Moving with Super-Light Velocities with Some Applications to Plasma Physics by Igor Y. Tamm</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(120).pdf" style="text-decoration:none;">The Development of the Chemical High Pressure Method During the Establishment of the New Ammonia Industry by Carl Bosch</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(334).pdf" style="text-decoration:none;">The Accounts of Society by Richard Stone</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(335).pdf" style="text-decoration:none;">Olefin-metathesis catalysts for the preparation of molecules and materials by RH Grubbs</a></b></li>
 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(121).pdf" style="text-decoration:none;">Some fast reactions in gases studied by flash photolysis and kinetic spectroscopy by Ronald GW Norrish</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(336).pdf" style="text-decoration:none;">Mass spectra and isotopes by Francis W. Aston </a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(122).pdf" style="text-decoration:none;">Energy, Life, and ATP by Paul D. Boyer</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(337).pdf" style="text-decoration:none;">The Major Histocompatibility Complex in Man - Past, Present, and Future Concepts by Jean Dausset</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(123).pdf" style="text-decoration:none;">Magical Power of Transition Metals: Past, Present, and Future by Ei-ichi Negishi</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(338).pdf" style="text-decoration:none;">Electrons in Glass by Sir Nevill F. Mott</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(124).pdf" style="text-decoration:none;">The Discovery of the J Particle: A Personal Recollection by Samuel C.C. Ting </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(339).pdf" style="text-decoration:none;">The biological synthesis of cholesterol by Konrad Bloch  </a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(125).pdf" style="text-decoration:none;">Asymmetric Hydrogenations by William S. Knowles </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(340).pdf" style="text-decoration:none;">Analogy as a Source of Knowledge by Konrad Lorenz </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(126).pdf" style="text-decoration:none;">Asymptotic Freedom: From Paradox to Paradigm by Frank Wilczek</a></b></li>
  
