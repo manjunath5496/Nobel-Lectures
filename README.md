@@ -744,14 +744,14 @@ and their breakdown products by Arne Tiselius</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(431).pdf" style="text-decoration:none;">The development of quantum mechanics by Werner Heisenberg</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(432).pdf" style="text-decoration:none;">Studies in chemical thermodynamics by Walther Nernst</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(9).pdf" style="text-decoration:none;">Ralph Steinman and the Discovery of Dendritic Cells by Ralph M. Steinman</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(10).pdf" style="text-decoration:none;">Spatial Cells in the Hippocampal Formation by John O'Keefe </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(11).pdf" style="text-decoration:none;">Grid Cells, Place Cells and Memory by May-Britt Moser</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(12).pdf" style="text-decoration:none;">Mechanisms in E. coli and Human Mismatch Repair by Paul Modrich</a></b></li>
-               <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(13).pdf" style="text-decoration:none;">Measuring the Acceleration of the Cosmic Expansion Using Supernovae by Saul Perlmutter</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(433).pdf" style="text-decoration:none;">Description and importance of the aromatic basic skeleton of the steroids by Otto Diels </a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(434).pdf" style="text-decoration:none;">Carriers of negative electricity by Joseph John Thomson </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(435).pdf" style="text-decoration:none;">The density of gases in the air and the discovery of argon by Lord Rayleigh</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(437).pdf" style="text-decoration:none;">How I discovered phase contrast by Frits Zernike</a></b></li>
+               <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(438).pdf" style="text-decoration:none;">Artificial radioactivity produced by neutron bombardment by Enrico Fermi</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(14).pdf" style="text-decoration:none;">Grid Cells and the Entorhinal Map of Space by Edvard I. Moser</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(15).pdf" style="text-decoration:none;">The Theory and Practice of Market Design by Alvin E. Roth</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(439).pdf" style="text-decoration:none;">The method of molecular rays by Otto Stern </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(440).pdf" style="text-decoration:none;">Radioactive substances, especially radium by Pierre Curie</a></b></li>
 
 
 
