@@ -592,23 +592,23 @@ and their breakdown products by Arne Tiselius</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(344).pdf" style="text-decoration:none;">The Early Antiproton Work by Owen Chamberlain</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(130).pdf" style="text-decoration:none;">Dawn of Fullerenes: Conjecture and Experiment by Robert F. Curl Jr.</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(345).pdf" style="text-decoration:none;">Studies in Histocompatibility by George D. Snell</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(132).pdf" style="text-decoration:none;">Molecular Dynamics of Elementary Chemical Reactions by Dudley R. Herschbach</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(346).pdf" style="text-decoration:none;">The biologic synthesis of deoxyribonucleic acid by Arthur Kornberg</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(134).pdf" style="text-decoration:none;">Scanning Tunneling Microscopy – From Birth to Adolescence by Heinrich Rohrer and Gerd Binnig</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(347).pdf" style="text-decoration:none;">From enzymatic adaptation to allosteric transitions by Jacques Monod</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(135).pdf" style="text-decoration:none;">Deep inelastic scattering: Experiments on the proton and the observation of scaling by H. W. Kendall  </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(348).pdf" style="text-decoration:none;">Quantum Mechanics: The Key to Understanding Magnetism by JH Van Vleck  </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(136).pdf" style="text-decoration:none;">My Life with O<sub>3</sub>, NO<sub>x</sub> and Other YZO<sub>x</sub>s by Paul J. Crutzen </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(349).pdf" style="text-decoration:none;">The part played by vascular presso- and chemo-receptors in respiratory control by Corneille J. F. Heymans </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(137).pdf" style="text-decoration:none;">Researches on Malaria by Ronald Ross</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(350).pdf" style="text-decoration:none;">Maximum Principles in Analytical Economics by PA Samuelson</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(138).pdf" style="text-decoration:none;">Concerning the Pleasures of Observing, and the Mechanics of the Inner Ear by Georg von Békésy</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(351).pdf" style="text-decoration:none;">The Origins of the Conception of Isotopes by Frederick Soddy</a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(139).pdf" style="text-decoration:none;">Postnatal development of the visual cortex and the influence of environment by Torsten N. Wiesel </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(352).pdf" style="text-decoration:none;">Properties of colloids by Richard A. Zsigmondy </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(140).pdf" style="text-decoration:none;">The Identification of the Sodium-Potassium Pump by Jens C. Skou</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(353).pdf" style="text-decoration:none;">Asymmetry and enzyme action by JW Cornforth</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(141).pdf" style="text-decoration:none;">Chemical Reactions under High Pressure by Friedrich Bergius </a></b></li> 
  
