@@ -610,19 +610,19 @@ and their breakdown products by Arne Tiselius</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(353).pdf" style="text-decoration:none;">Asymmetry and enzyme action by JW Cornforth</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(141).pdf" style="text-decoration:none;">Chemical Reactions under High Pressure by Friedrich Bergius </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(354).pdf" style="text-decoration:none;">The structure of carbohydrates and of vitamin C by Sir Walter Norman Haworth </a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(142).pdf" style="text-decoration:none;">Graphene: Materials in the Flatland by Konstantin Novoselov</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(355).pdf" style="text-decoration:none;">Defining and Measuring Optical Frequencies: The Optical Clock Opportunity — And More by John L. Hall</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(143).pdf" style="text-decoration:none;">Electronic Imaging of Ionizing Radiation with Limited Avalanches in Gases by Georges Charpak</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(356).pdf" style="text-decoration:none;">The production and properties of positrons by Carl David Anderson</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(144).pdf" style="text-decoration:none;">Cloud Chamber Researches in Nuclear Physics and Cosmic Radiation by Patrick M.S. Blackett</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(357).pdf" style="text-decoration:none;">The oxygen-transferring ferment of respiration by Otto Warburg</a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(145).pdf" style="text-decoration:none;">From Macromolecules to Biological Assemblies by Aaron Klug</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(146).pdf" style="text-decoration:none;">Investigations into the properties of substances at low temperatures, which have led, amongst other things, to the preparation of liquid helium by Heike Kamerlingh Onnes</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(147).pdf" style="text-decoration:none;">Myoglobin and the structure of proteins by John C. Kendrew</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(358).pdf" style="text-decoration:none;">Two decades of research on the biosynthesis of saccharides by Luis Leloir</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(359).pdf" style="text-decoration:none;">Some observations on the responses of single nerve fibers by Joseph Erlanger</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(360).pdf" style="text-decoration:none;">The ionic basis of nervous conduction by Alan Hodgkin</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(148).pdf" style="text-decoration:none;">Slow neutron spectroscopy and the grand atlas of the physical world by Bertram N. Brockhouse</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(149).pdf" style="text-decoration:none;">The Structure and Connexions of Neurons by Santiago Ramón y Cajal</a></b></li>
  
