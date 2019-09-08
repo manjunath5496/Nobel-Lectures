@@ -688,22 +688,22 @@ and their breakdown products by Arne Tiselius</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(398).pdf" style="text-decoration:none;"> Hemoglobin regeneration as influenced by diet and other factors by George H. Whipple</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(399).pdf" style="text-decoration:none;">Energy production in stars by Hans Bethe</a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(400).pdf" style="text-decoration:none;">The development of partition chromatography by Archer Martin </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(188).pdf" style="text-decoration:none;">Structure of the World Economy by Wassily Leontief </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(189).pdf" style="text-decoration:none;">CP Violation and Flavour Mixing by Makoto Kobayashi</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(190).pdf" style="text-decoration:none;">GFP: Lighting Up Life by M Chalfie</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(401).pdf" style="text-decoration:none;">What Does CP Violation Tell Us? by Toshihide Maskawa </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(402).pdf" style="text-decoration:none;">The X-ray spectra and the structure of the atoms by Manne Siegbahn</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(403).pdf" style="text-decoration:none;">Plasma physics, space research and the origin of the solar system by Hannes Alfvén </a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(191).pdf" style="text-decoration:none;">Spontaneous symmetry breaking in particle physics: A case of cross fertilization by Yoichiro Nambu </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(193).pdf" style="text-decoration:none;">Recovering Phase Information from Intensity Data by Jerome Karle</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(404).pdf" style="text-decoration:none;">Embryonic stem cells: the mouse source-vehicle for mammalian genetics and beyond by M Evans</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(405).pdf" style="text-decoration:none;">Alicyclic compounds by Otto Wallach</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(194).pdf" style="text-decoration:none;">The cosmic radiation by Cecil Powell </a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(406).pdf" style="text-decoration:none;">Chemical kinetics in the past few decades by Sir Cyril Hinshelwood  </a></b></li>                              
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(195).pdf" style="text-decoration:none;">Radioimmunoassay: A Probe for Fine Structure of Biological Systems by Rosalyn Yalow </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(407).pdf" style="text-decoration:none;">The chemistry of the bile acids by Heinrich Otto Wieland </a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(196).pdf" style="text-decoration:none;">Constitution of Sterols and Their Connection with Other Substances Occurring in Nature by Adolf Windaus </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(408).pdf" style="text-decoration:none;">Characteristic Röntgen radiation by Charles Glover Barkla </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(197).pdf" style="text-decoration:none;">The principles of conformational analysis by Derek Barton </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(409).pdf" style="text-decoration:none;">The electron and the light-quant from the experimental point of view by Robert A. Millikan</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(198).pdf" style="text-decoration:none;">Gene silencing by double-stranded RNA by Andrew Z. Fire</a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(410).pdf" style="text-decoration:none;">Macroscopic quantum phenomena from pairing in superconductors by JR Schrieffer</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(199).pdf" style="text-decoration:none;">Wireless telegraphic communication by Guglielmo Marconi</a></b></li>
  
