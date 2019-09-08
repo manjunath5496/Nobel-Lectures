@@ -837,7 +837,7 @@ and their breakdown products by Arne Tiselius</a></b></li>
     
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(14).pdf" style="text-decoration:none;">Feynman Lectures on Computation</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(15).pdf" style="text-decoration:none;">The Tanner Lectures on Human Values  </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(15).pdf" style="text-decoration:none;"> The Science of Religion | The Religion of Science: The Tanner Lectures on Human Values  </a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(16).pdf" style="text-decoration:none;">Lectures on Abstract Algebra</a></b></li>   
   
