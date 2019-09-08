@@ -525,32 +525,32 @@ and their breakdown products by Arne Tiselius</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(306).pdf" style="text-decoration:none;">Experiments with an Isolated Subatomic Particle at Rest by Hans G. Dehmelt </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(94).pdf" style="text-decoration:none;">Unraveling the Sense of Smell by Linda B. Buck</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(307).pdf" style="text-decoration:none;">The quantitative analysis of excitation and conduction in nerve by Andrew Huxley</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(95).pdf" style="text-decoration:none;">Optical Methods for Studying Hertzian Resonances by Alfred Kastler</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(308).pdf" style="text-decoration:none;">Semiconductor research leading to the point contact transistor by John Bardeen</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(96).pdf" style="text-decoration:none;">Elementary Modes of Excitation in the Nucleus by Ben R. Mottelson </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(309).pdf" style="text-decoration:none;">Birth of neutrino astrophysics by Masatoshi Koshiba </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(97).pdf" style="text-decoration:none;">The Shell Model by Maria Goeppert Mayer </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(310).pdf" style="text-decoration:none;">The artificial production of fast particles by Ernest T.S. Walton </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(98).pdf" style="text-decoration:none;">From Weak Interactions to Gravitation by Martinus J.G. Veltman </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(311).pdf" style="text-decoration:none;">A View of Genetics by Joshua Lederberg </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(99).pdf" style="text-decoration:none;">Scents and Sensibility: A Molecular Logic of Olfactory Perception by Richard Axel</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(312).pdf" style="text-decoration:none;">Aquaporin water channels by Peter Agre</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(100).pdf" style="text-decoration:none;">Some Polycyclic Natural Products by Sir Robert Robinson</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(313).pdf" style="text-decoration:none;">The discovery of vitamin K, its biological functions and therapeutical application by Henrik Dam</a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(101).pdf" style="text-decoration:none;">The Discovery of Crown Ethers by Charles J. Pedersen </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(314).pdf" style="text-decoration:none;">Some thermodynamic properties of hydrogen and deuterium by Harold Clayton Urey </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(102).pdf" style="text-decoration:none;">On the Cloud Method of Making Visible Ions and the Tracks of Ionizing Particles by C.T.R. Wilson</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(315).pdf" style="text-decoration:none;">Binary Pulsars and Relativistic Gravity by Joseph H. Taylor Jr.</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(103).pdf" style="text-decoration:none;">Genes and Proteins That Control the Secretory Pathway by Randy W. Schekman</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(316).pdf" style="text-decoration:none;">Streptomycin: background, isolation, properties, and utilization by Selman A. Waksman</a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(104).pdf" style="text-decoration:none;">Radio Telescopes of Large Resolving Power by Martin Ryle</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(317).pdf" style="text-decoration:none;">Electron Transfer between Metal Complexes – Retrospective by Henry Taube</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(105).pdf" style="text-decoration:none;">The Ultracentrifuge by The Svedberg</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(106).pdf" style="text-decoration:none;">The Work of John Nash in Game Theory </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(107).pdf" style="text-decoration:none;">Evading the Goldstone Theorem by Peter Higgs</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(318).pdf" style="text-decoration:none;">Superfluid 3-He: The Early Days as Seen by a Theorist by Anthony J. Leggett</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(319).pdf" style="text-decoration:none;">On Superconductivity and Superfluidity by Vitaly L. Ginzburg</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(320).pdf" style="text-decoration:none;">The Role of Frontier Orbitals in Chemical Reactions by Kenichi Fukui</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(108).pdf" style="text-decoration:none;">The Discovery of the Binary Pulsar by Russell A. Hulse</a></b></li>
 
 
