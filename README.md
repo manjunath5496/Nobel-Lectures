@@ -859,7 +859,17 @@ and their breakdown products by Arne Tiselius</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(25).pdf" style="text-decoration:none;">Eight Lectures on Theoretical Physics </a></b></li>  
   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(26).pdf" style="text-decoration:none;">Lectures on Hall algebras</a></b></li>
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(27).pdf" style="text-decoration:none;">Maharishi Mahesh Yogi Lectures </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(28).pdf" style="text-decoration:none;">Lectures in Quantum Field Theory </a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(29).pdf" style="text-decoration:none;">Alan Watts Lectures and Essays</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(30).pdf" style="text-decoration:none;">Introductory Lectures on Black Hole Thermodynamics  </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/ole(32).pdf" style="text-decoration:none;">The Edinburgh Lectures on Mental Science </a></b></li>   
   
   
   
