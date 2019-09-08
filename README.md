@@ -663,18 +663,18 @@ and their breakdown products by Arne Tiselius</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(384).pdf" style="text-decoration:none;">Concerning the detection of X-ray interferences by Max von Laue</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(172).pdf" style="text-decoration:none;">A structural basis of light energy and electron transfer in biology by Robert Huber </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(385).pdf" style="text-decoration:none;">Maps of Bounded Rationality by Daniel Kahneman </a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(173).pdf" style="text-decoration:none;">Dissections and reconstructions of genes and chromosomes by Paul Berg </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(386).pdf" style="text-decoration:none;">The nature and mode of action of oxidation enzymes by Hugo Theorell </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(174).pdf" style="text-decoration:none;">Reactions at Surfaces: From Atoms to Complexity by Gerhard Ertl </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(387).pdf" style="text-decoration:none;">Penicillin by Howard Florey  </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(175).pdf" style="text-decoration:none;">Reflections on the Discovery of the Tau Lepton by Martin L. Perl</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(388).pdf" style="text-decoration:none;">The citric acid cycle by Hans Krebs</a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(176).pdf" style="text-decoration:none;">Self-splicing and enzymatic activity of an intervening sequence RNA from Tetrahymena by Thomas R. Cech</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(389).pdf" style="text-decoration:none;">From Diyls to Ylides to My Idyll by Georg Wittig</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(177).pdf" style="text-decoration:none;">The Ubiquitin System for Protein Degradation and Some of Its Roles in the Control of the Cell‐Division Cycle by Avram Hershko</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(390).pdf" style="text-decoration:none;">1933 and 1977 - Some Expansion Policy Problems in Cases of Unbalanced Domestic and International Economic Relations by Bertil Ohlin </a></b></li> 
   
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(178).pdf" style="text-decoration:none;">Constructing and exploiting the fluorescent protein paintbox by Roger Y. Tsien</a></b></li>
