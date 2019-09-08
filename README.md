@@ -584,13 +584,13 @@ and their breakdown products by Arne Tiselius</a></b></li>
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(340).pdf" style="text-decoration:none;">Analogy as a Source of Knowledge by Konrad Lorenz </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(126).pdf" style="text-decoration:none;">Asymptotic Freedom: From Paradox to Paradigm by Frank Wilczek</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(341).pdf" style="text-decoration:none;">Pulsars and High Density Physics by Antony Hewish</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(127).pdf" style="text-decoration:none;">Cosmic Microwave Background Radiation Anisotropies: Their Discovery and Utilization by George F. Smoot</a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(342).pdf" style="text-decoration:none;">The Dawn of X-Ray Astronomy by Riccardo Giacconi</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(128).pdf" style="text-decoration:none;">Some Concepts in Reaction Dynamics by John C. Polanyi </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(343).pdf" style="text-decoration:none;">Alanine transfer RNA by Robert W. Holley </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(129).pdf" style="text-decoration:none;">G Proteins and Regulation of Adenylyl Cyclase by Alfred G. Gilman</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(344).pdf" style="text-decoration:none;">The Early Antiproton Work by Owen Chamberlain</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(130).pdf" style="text-decoration:none;">Dawn of Fullerenes: Conjecture and Experiment by Robert F. Curl Jr.</a></b></li>                              
 
