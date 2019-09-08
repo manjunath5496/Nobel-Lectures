@@ -457,33 +457,33 @@ and their breakdown products by Arne Tiselius</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(266).pdf" style="text-decoration:none;">Enzymatic synthesis of ribonucleic acid by Severo Ochoa</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(54).pdf" style="text-decoration:none;">Mechanically Interlocked Molecules (MIMs)—Molecular Shuttles, Switches, and Machines by J. Fraser Stoddart </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(267).pdf" style="text-decoration:none;">Early development of neutron scattering by CG Shull </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(55).pdf" style="text-decoration:none;">Spectroscopic Studies of Molecular Structure by Gerhard Herzberg</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(268).pdf" style="text-decoration:none;">The trends of polarography by Jaroslav Heyrovsky</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(56).pdf" style="text-decoration:none;">Sand from Centuries Past: Send Future Voices Fast by Charles K. Kao </a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(269).pdf" style="text-decoration:none;">Economic Theory in the Mathematical Mode by Gerard Debreu </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(57).pdf" style="text-decoration:none;">Hibernating Bears, Antibiotics and the Evolving Ribosome by Ada E. Yonath </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(270).pdf" style="text-decoration:none;">The statistical interpretation of quantum mechanics by Max Born </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(58).pdf" style="text-decoration:none;">From Chemical Topology to Molecular Machines by Jean-Pierre Sauvage </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(271).pdf" style="text-decoration:none;">Research in nuclear magnetism by E. M. Purcell </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(59).pdf" style="text-decoration:none;">Production of Coherent Radiation by Atoms and Molecules by Charles H. Townes</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(272).pdf" style="text-decoration:none;">Diene synthesis and related reaction types by Kurt Alder</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(60).pdf" style="text-decoration:none;">The Biological Fixation of Nitrogen and the Preservation of Fodder in Agriculture, and Their Importance to Human Nutrition by Artturi Virtanen </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(273).pdf" style="text-decoration:none;">Enzymatic Cleavage of RNA by RNA by Sidney Altman </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(61).pdf" style="text-decoration:none;">Holography, 1948-1971 by Dennis Gabor</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(274).pdf" style="text-decoration:none;">Noradrenaline: fate and control of its biosynthesis by Julius Axelrod</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(62).pdf" style="text-decoration:none;">Topological Defects and Phase Transitions by John Michael Kosterlitz </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(275).pdf" style="text-decoration:none;">The Chemical Structures of Pancreatic Ribonuclease and Deoxyribonuclease by Stanford Moore and William H. Stein </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(63).pdf" style="text-decoration:none;">Intracellular Protein Degradation: From a Vague Idea thru the Lysosome and the Ubiquitin-Proteasome System and onto Human Diseases and Drug Targeting by Aaron Ciechanover</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(276).pdf" style="text-decoration:none;">The diffraction of X-rays by crystals by William Lawrence Bragg</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(64).pdf" style="text-decoration:none;">The Art of Building Small: from Molecular Switches to Motors by Ben L. Feringa</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(277).pdf" style="text-decoration:none;">Polar Ozone Depletion by Mario J. Molina</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(65).pdf" style="text-decoration:none;">Topological Quantum Matter by F. Duncan M. Haldane </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(278).pdf" style="text-decoration:none;">rom Utopian Theory to Practical Applications: The Case of Econometrics by R Frisch </a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(66).pdf" style="text-decoration:none;">Telomerase Discovery: The Excitement of Putting Together Pieces of the Puzzle by Carol W. Greider </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(279).pdf" style="text-decoration:none;">Studies on the Mechanism of Hormone Action by Earl W. Sutherland, Jr. </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(67).pdf" style="text-decoration:none;">ATP Synthesis by Rotary Catalysis by John E. Walker</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(280).pdf" style="text-decoration:none;">Transistor technology evokes new physics by William B. Shockley</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(68).pdf" style="text-decoration:none;">The Role of MHC Gene Products in Immune Regulation and Its Relevance to Alloreactivity by Baruj Benacerraf</a></b></li> 
  
