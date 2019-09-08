@@ -677,14 +677,14 @@ and their breakdown products by Arne Tiselius</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(390).pdf" style="text-decoration:none;">1933 and 1977 - Some Expansion Policy Problems in Cases of Unbalanced Domestic and International Economic Relations by Bertil Ohlin </a></b></li> 
   
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(178).pdf" style="text-decoration:none;">Constructing and exploiting the fluorescent protein paintbox by Roger Y. Tsien</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(179).pdf" style="text-decoration:none;">The Identification of Genes Controlling Development in Flies and Fishes by Christiane Nüsslein-Volhard  </a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(180).pdf" style="text-decoration:none;">Some consequences of low temperature research in chemical thermodynamics by William F. Giauque</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(181).pdf" style="text-decoration:none;">Cross-coupling reactions of organoboranes: an easy way to construct C-C bonds by Akira Suzuki</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(182).pdf" style="text-decoration:none;">The Molecular Basis of Eukaryotic Transcription by Roger D. Kornberg</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(183).pdf" style="text-decoration:none;">Elementary particles and bubble chambers by Donald A. Glaser</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(391).pdf" style="text-decoration:none;">Structural Studies of Immunoglobulins by Rodney R. Porter</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(392).pdf" style="text-decoration:none;">The neutron and its properties by James Chadwick  </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(393).pdf" style="text-decoration:none;">The law of parity conservation and other symmetry laws of physics by Chen Ning Yang </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(394).pdf" style="text-decoration:none;">Glimpses at the history of the nuclear structure theory by J. Hans D. Jensen</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(395).pdf" style="text-decoration:none;">Synthesis in the study of nucleotides by Alexander R. Todd</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(396).pdf" style="text-decoration:none;">The magnetic moment of the electron by Polykarp Kusch</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(184).pdf" style="text-decoration:none;">The string galvanometer and the measurement of the action currents of the heart by Willem Einthoven </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(397).pdf" style="text-decoration:none;">The equation of state for gases and liquids by Johannes Diderik van der Waals </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(185).pdf" style="text-decoration:none;"> Electron Spectroscopy for Atoms, Molecules and Condensed Matter by Kai M. Siegbahn</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(186).pdf" style="text-decoration:none;">X-ray analysis of haemoglobin by Max F. Perutz</a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(187).pdf" style="text-decoration:none;">Multimembered rings, higher terpene compounds and male sex hormones by Leopold Ruzicka </a></b></li>                              
