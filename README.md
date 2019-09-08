@@ -725,14 +725,14 @@ and their breakdown products by Arne Tiselius</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(420).pdf" style="text-decoration:none;">The transuranium elements: early history by Edwin McMillan </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(209).pdf" style="text-decoration:none;">F. Sherwood Rowland: Nobel Lecture in Chemistry December 8, 1995</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(421).pdf" style="text-decoration:none;">The function of phosphate in alcoholic fermentation by Arthur Harden</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(210).pdf" style="text-decoration:none;">The Significance of Responses of the Genome to Challenge by Barbara McClintock</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(422).pdf" style="text-decoration:none;">The Increasing Returns Revolution in Trade and Geography by Paul Krugman</a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(211).pdf" style="text-decoration:none;">From the Psi to Charm – The Experiments of 1975 and 1976 by Burton Richter</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(423).pdf" style="text-decoration:none;">On the quantal mechanism of neural transmitter release by Bernard Katz</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(212).pdf" style="text-decoration:none;">The DNA Provirus Hypothesis by Howard M. Temin</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(424).pdf" style="text-decoration:none;">On plant pigments by Richard Willstätter</a></b></li> 
  
  
  
