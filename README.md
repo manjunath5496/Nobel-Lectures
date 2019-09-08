@@ -635,13 +635,13 @@ and their breakdown products by Arne Tiselius</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(369).pdf" style="text-decoration:none;">From the natural transmutations of uranium to its artificial fission by Otto Hahn</a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(370).pdf" style="text-decoration:none;">Conceptual Foundations of the Unified Theory of Weak and Electromagnetic Interactions by Steven Weinberg</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(158).pdf" style="text-decoration:none;">Ethology and Stress Diseases by Nikolaas Tinbergen</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(371).pdf" style="text-decoration:none;">The motion of ions: principles and concepts by Lars Onsager</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(159).pdf" style="text-decoration:none;">Further progress in chemotherapy of bacterial infections by Gerhard Domagk</a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(372).pdf" style="text-decoration:none;">Promotion and Limitation of Genetic Exchange by Werner Arber</a></b></li>                              
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(160).pdf" style="text-decoration:none;">Perovskite‐Type Oxides—the New Approach to High‐T<sub>c</sub> Superconductivity by J. Georg Bednorz and K. Alex Müller</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(373).pdf" style="text-decoration:none;">The Discovery of Tunnelling Supercurrents by Brian D. Josephson</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(161).pdf" style="text-decoration:none;">Chirality in Chemistry by Vladimir Prelog </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(374).pdf" style="text-decoration:none;">Control of the pulmonary circulation in man with some remarks on methodology by André F. Cournand </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(162).pdf" style="text-decoration:none;">Decoding the Language of the Bee by Karl von Frisch</a></b></li>
  
