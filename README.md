@@ -501,14 +501,14 @@ and their breakdown products by Arne Tiselius</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(289).pdf" style="text-decoration:none;">Some applications of isotopic indicators by George de Hevesy</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(290).pdf" style="text-decoration:none;">Snapshot magnetic resonance imaging by Peter Mansfield </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(79).pdf" style="text-decoration:none;">Deep Inelastic Scattering: Comparisons with the Quark Model by Jerome I. Friedman</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(80).pdf" style="text-decoration:none;">The Quantized Hall Effect by Klaus von Klitzing</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(81).pdf" style="text-decoration:none;">Fractional Quantization by Robert B. Laughlin </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(82).pdf" style="text-decoration:none;">A Confrontation with Infinity by Gerardus't Hooft</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(83).pdf" style="text-decoration:none;">Spatial Configuration of Macromolecular Chains by Paul J. Flory</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(84).pdf" style="text-decoration:none;">The Development of the Electron Microscope and of Electron Microscopy by Ernst Ruska</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(291).pdf" style="text-decoration:none;">Some Economic Scenarios for the 1980's by Lawrence R. Klein</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(292).pdf" style="text-decoration:none;">Surface chemistry by Irving Langmuir</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(293).pdf" style="text-decoration:none;">Polysaccharide Phosphorylase by Gerty Cori and Carl Cori</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(295).pdf" style="text-decoration:none;">Potassium channels and the atomic basis of selective ion conduction by Roderick MacKinnon</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(296).pdf" style="text-decoration:none;">Determination of Nucleotide Sequences in DNA by Frederick Sanger</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(297).pdf" style="text-decoration:none;">The Logic of Chemical Synthesis: Multistep Synthesis of Complex Carbogenic Molecules by Elias James Corey</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(85).pdf" style="text-decoration:none;">Growth of GaN on Sapphire via Low-Temperature Deposited Buffer Layer and Realization of p-Type GaN by Mg Doping Followed by Low-Energy Electron Beam Irradiation by Hiroshi Amano</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(298).pdf" style="text-decoration:none;">The Generative Grammar of the Immune System by Niels K. Jerne </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(86).pdf" style="text-decoration:none;">The Electron-Scattering Method and Its Application to the Structure of Nuclei and Nucleons by Robert Hofstadter</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/nbl(87).pdf" style="text-decoration:none;">Rotational Motion in Nuclei by Aage N. Bohr </a></b></li>                              
