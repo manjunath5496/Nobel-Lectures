@@ -1,5 +1,58 @@
-
-
+<table class="infobox vevent">
+<tbody>
+<tr>
+<th class="summary" colspan="2">Nobel Prize</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" title="A golden medallion with an embossed image of Alfred Nobel facing left in profile. To the left of the man is the text &quot;ALFR&bull;&quot; then &quot;NOBEL&quot;, and on the right, the text (smaller) &quot;NAT&bull;&quot; then &quot;MDCCCXXXIII&quot; above, followed by (smaller) &quot;OB&bull;&quot; then &quot;MDCCCXCVI&quot; below." href="https://en.wikipedia.org/wiki/File:Nobel_Prize.png"><img src="Nobel_Prize.png" srcset="Nobel_Prize.png" alt="A golden medallion with an embossed image of Alfred Nobel facing left in profile. To the left of the man is the text &quot;ALFR&bull;&quot; then &quot;NOBEL&quot;, and on the right, the text (smaller) &quot;NAT&bull;&quot; then &quot;MDCCCXXXIII&quot; above, followed by (smaller) &quot;OB&bull;&quot; then &quot;MDCCCXCVI&quot; below." width="220" height="216" data-file-width="500" data-file-height="492" /></a></td>
+</tr>
+<tr>
+<th scope="row">Awarded for</th>
+<td>Outstanding contributions for humanity in&nbsp;<a title="Nobel Prize in Chemistry" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Chemistry">chemistry</a>,&nbsp;<a title="Nobel Prize in Literature" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Literature">literature</a>,&nbsp;<a title="Nobel Peace Prize" href="https://en.wikipedia.org/wiki/Nobel_Peace_Prize">peace</a>,&nbsp;<a title="Nobel Prize in Physics" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics">physics</a>, and&nbsp;<a title="Nobel Prize in Physiology or Medicine" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Physiology_or_Medicine">physiology or medicine</a></td>
+</tr>
+<tr>
+<th scope="row">Country</th>
+<td class="location">
+<div class="plainlist">
+<ul>
+<li><a title="Sweden" href="https://en.wikipedia.org/wiki/Sweden">Sweden</a>&nbsp;(all prizes except the Peace Prize)</li>
+<li><a title="Norway" href="https://en.wikipedia.org/wiki/Norway">Norway</a>&nbsp;(Peace Prize only)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Presented by</th>
+<td class="attendee">
+<div class="plainlist">
+<ul>
+<li><a title="Nobel Assembly at the Karolinska Institute" href="https://en.wikipedia.org/wiki/Nobel_Assembly_at_the_Karolinska_Institute">Nobel Assembly at the Karolinska Institute</a>&nbsp;(Physiology or Medicine)</li>
+<li><a title="Norwegian Nobel Committee" href="https://en.wikipedia.org/wiki/Norwegian_Nobel_Committee">Norwegian Nobel Committee</a>&nbsp;(Peace)</li>
+<li><a title="Royal Swedish Academy of Sciences" href="https://en.wikipedia.org/wiki/Royal_Swedish_Academy_of_Sciences">Royal Swedish Academy of Sciences</a>&nbsp;(Chemistry, Economic Sciences, Physics)</li>
+<li><a title="Swedish Academy" href="https://en.wikipedia.org/wiki/Swedish_Academy">Swedish Academy</a>&nbsp;(Literature)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Reward(s)</th>
+<td><a title="Nobel Prize" href="https://en.wikipedia.org/wiki/Nobel_Prize#Award_money">Prize money</a>&nbsp;of 9 million&nbsp;<a class="mw-redirect" title="Swedish Krona" href="https://en.wikipedia.org/wiki/Swedish_Krona">SEK</a>, approx.&nbsp;<a title="United States dollar" href="https://en.wikipedia.org/wiki/United_States_dollar">US$</a>986,000 (2018);<br />a&nbsp;<a title="Nobel Prize" href="https://en.wikipedia.org/wiki/Nobel_Prize#Medals">medal</a>;&nbsp;and a&nbsp;<a title="Nobel Prize" href="https://en.wikipedia.org/wiki/Nobel_Prize#Diplomas">diploma</a></td>
+</tr>
+<tr>
+<th scope="row">First awarded</th>
+<td>1901<span class="noprint">; 119&nbsp;years ago</span></td>
+</tr>
+<tr>
+<th scope="row">Number of laureates</th>
+<td>590 prizes to 935 laureates (as of 2018)</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="https://nobelprize.org/" rel="nofollow">nobelprize<wbr />.org</a></span></td>
+</tr>
+</tbody>
+</table>
+</br>
 <p>The&nbsp;<strong>Nobel Prize</strong>&nbsp;(<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a title="Help:IPA/English" href="https://en.wikipedia.org/wiki/Help:IPA/English">/<span title="/ˈ/: primary stress follows">ˈ</span><span title="'n' in 'nigh'">n</span><span title="/oʊ/: 'o' in 'code'">oʊ</span><span title="'b' in 'buy'">b</span><span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'l' in 'lie'">l</span>/</a></span></span>,&nbsp;<a title="Help:Pronunciation respelling key" href="https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key"><em title="English pronunciation respelling">NOH-bel</em></a>;&nbsp;<a title="Swedish language" href="https://en.wikipedia.org/wiki/Swedish_language">Swedish</a>:&nbsp;<em lang="sv">Nobelpriset</em>&nbsp;<small></small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a title="Help:IPA/Swedish" href="https://en.wikipedia.org/wiki/Help:IPA/Swedish">[nʊˈbɛ̂lːˌpriːsɛt]</a></span>;&nbsp;<a title="Norwegian language" href="https://en.wikipedia.org/wiki/Norwegian_language">Norwegian</a>:&nbsp;<em lang="no">Nobelprisen</em>) is a set of annual international awards bestowed in several categories by&nbsp;<a title="Sweden" href="https://en.wikipedia.org/wiki/Sweden">Swedish</a>&nbsp;and&nbsp;<a title="Norway" href="https://en.wikipedia.org/wiki/Norway">Norwegian</a>&nbsp;institutions in recognition of academic, cultural, or scientific advances. The&nbsp;<a title="Will and testament" href="https://en.wikipedia.org/wiki/Will_and_testament">will</a>&nbsp;of the&nbsp;<a title="Swedes" href="https://en.wikipedia.org/wiki/Swedes">Swedish</a>&nbsp;chemist, engineer and industrialist&nbsp;<a title="Alfred Nobel" href="https://en.wikipedia.org/wiki/Alfred_Nobel">Alfred Nobel</a>&nbsp;established the five Nobel prizes in 1895. The prizes in&nbsp;<a title="Nobel Prize in Chemistry" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Chemistry">Chemistry</a>,&nbsp;<a title="Nobel Prize in Literature" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Literature">Literature</a>,&nbsp;<a title="Nobel Peace Prize" href="https://en.wikipedia.org/wiki/Nobel_Peace_Prize">Peace</a>,&nbsp;<a title="Nobel Prize in Physics" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics">Physics</a>, and&nbsp;<a title="Nobel Prize in Physiology or Medicine" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Physiology_or_Medicine">Physiology or Medicine</a>&nbsp;were first awarded in 1901.&nbsp;The prizes are widely regarded as the most prestigious awards available in their respective fields.</p>
 <p>In 1968,&nbsp;<a title="Sveriges Riksbank" href="https://en.wikipedia.org/wiki/Sveriges_Riksbank">Sveriges Riksbank</a>, Sweden's&nbsp;<a title="Central bank" href="https://en.wikipedia.org/wiki/Central_bank">central bank</a>, established the&nbsp;<a title="Nobel Memorial Prize in Economic Sciences" href="https://en.wikipedia.org/wiki/Nobel_Memorial_Prize_in_Economic_Sciences">Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel</a>. The award is based on a donation received by the Nobel Foundation in 1968 from&nbsp;<a title="Sveriges Riksbank" href="https://en.wikipedia.org/wiki/Sveriges_Riksbank">Sveriges Riksbank</a>&nbsp;on the occasion of the bank's 300th anniversary. The first Prize in Economic Sciences was awarded to&nbsp;<a title="Ragnar Frisch" href="https://en.wikipedia.org/wiki/Ragnar_Frisch">Ragnar Frisch</a>&nbsp;and&nbsp;<a title="Jan Tinbergen" href="https://en.wikipedia.org/wiki/Jan_Tinbergen">Jan Tinbergen</a>&nbsp;in 1969. The Prize in&nbsp;<a class="mw-redirect" title="Economic Sciences" href="https://en.wikipedia.org/wiki/Economic_Sciences">Economic Sciences</a>&nbsp;is awarded by the&nbsp;<a title="Royal Swedish Academy of Sciences" href="https://en.wikipedia.org/wiki/Royal_Swedish_Academy_of_Sciences">Royal Swedish Academy of Sciences</a>, Stockholm, Sweden, according to the same principles as for the Nobel Prizes that have been awarded since 1901.</p>
 <p>The&nbsp;<a title="Royal Swedish Academy of Sciences" href="https://en.wikipedia.org/wiki/Royal_Swedish_Academy_of_Sciences">Royal Swedish Academy of Sciences</a>&nbsp;awards the Nobel Prize in Chemistry, the Nobel Prize in Physics, and the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel; the&nbsp;<a title="Nobel Assembly at the Karolinska Institute" href="https://en.wikipedia.org/wiki/Nobel_Assembly_at_the_Karolinska_Institute">Nobel Assembly at the Karolinska Institute</a>&nbsp;awards the Nobel Prize in Physiology or Medicine; the&nbsp;<a title="Swedish Academy" href="https://en.wikipedia.org/wiki/Swedish_Academy">Swedish Academy</a>&nbsp;grants the Nobel Prize in Literature; and the&nbsp;<a title="Norwegian Nobel Committee" href="https://en.wikipedia.org/wiki/Norwegian_Nobel_Committee">Norwegian Nobel Committee</a>&nbsp;awards the Nobel Peace Prize.</p>
